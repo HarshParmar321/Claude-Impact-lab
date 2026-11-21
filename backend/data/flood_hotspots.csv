@@ -1,0 +1,36 @@
+hotspot_id,hotspot_name,ward_code,lat,lon,severity,nearest_road_id,distance_m,tide_sensitive
+FH001,Deonar Link Road 11 low point,M/E,19.051455,72.935816,high,RD0222,80,Y
+FH002,Dharavi Market Road 11 low point,G/N,19.025986,72.847642,severe,RD0102,316,N
+FH003,Santacruz West Road No. 11 low point,H/W,19.070375,72.834226,moderate,RD0132,322,N
+FH004,Chembur Road No. 18 low point,M/W,19.054382,72.903354,severe,RD0259,68,N
+FH005,Dadar Station Road 24 low point,G/N,19.021492,72.8368,moderate,RD0115,195,N
+FH006,Fort Station Road 13 low point,A,18.939982,72.834975,moderate,RD0014,489,Y
+FH007,Mazgaon Link Road 22 low point,E,18.976967,72.829844,high,RD0053,409,N
+FH008,Bhandup Cross Lane 18 low point,S,19.136132,72.927605,high,RD0319,321,N
+FH009,Chembur Cross Lane 3 low point,M/W,19.055504,72.904786,moderate,RD0244,485,N
+FH010,Vidyavihar Link Road 16 low point,N,19.100227,72.920838,moderate,RD0287,70,N
+FH011,Mahim Market Road 28 low point,G/N,19.01474,72.842389,moderate,RD0119,93,N
+FH012,Chembur Market Road 9 low point,M/W,19.059467,72.909705,moderate,RD0250,349,Y
+FH013,Matunga Road No. 9 low point,F/N,19.021292,72.856812,moderate,RD0070,103,N
+FH014,Vidyavihar Cross Lane 22 low point,N,19.097335,72.909406,high,RD0293,194,Y
+FH015,Cuffe Parade Road No. 17 low point,A,18.935587,72.830764,high,RD0018,64,Y
+FH016,Saki Vihar Road low point,L,19.087069,72.861981,moderate,RD0182,228,N
+FH017,Byculla Link Road 24 low point,E,18.973444,72.845175,high,RD0055,387,Y
+FH018,Marol Link Road 16 low point,K/E,19.116292,72.863514,high,RD0167,572,Y
+FH019,Ghatkopar Road No. 3 low point,N,19.099973,72.922494,moderate,RD0274,356,N
+FH020,Gokhale Road low point,G/N,19.026168,72.838977,high,RD0092,420,Y
+FH021,Deonar Road No. 3 low point,M/E,19.05119,72.935151,high,RD0214,48,Y
+FH022,Khar West Cross Lane 22 low point,H/W,19.058754,72.827959,moderate,RD0143,273,Y
+FH023,Matunga Road low point,F/N,19.028997,72.867587,moderate,RD0063,90,Y
+FH024,Deonar Link Road 19 low point,M/E,19.049846,72.931359,high,RD0230,198,Y
+FH025,Kurla Station Road 18 low point,L,19.076954,72.887285,high,RD0199,599,Y
+FH026,Sion Cross Lane 22 low point,F/N,19.042378,72.85986,severe,RD0083,460,N
+FH027,Mahim Link Road 22 low point,G/N,19.016942,72.84033,high,RD0113,580,N
+FH028,Colaba Road No. 18 low point,A,18.937874,72.827143,severe,RD0019,628,Y
+FH029,Cuffe Parade Station Road 23 low point,A,18.937998,72.820907,high,RD0024,574,Y
+FH030,Dadar Road No. 21 low point,G/N,19.01829,72.83877,severe,RD0112,459,Y
+FH031,Matunga Cross Lane 15 low point,F/N,19.022288,72.851535,moderate,RD0076,169,Y
+FH032,Deonar Market Road 7 low point,M/E,19.057281,72.935301,moderate,RD0218,305,N
+FH033,Saki Naka Station Road 28 low point,L,19.077993,72.886633,moderate,RD0209,195,Y
+FH034,Chandivali Link Road 17 low point,L,19.075622,72.888079,moderate,RD0198,612,N
+FH035,Sion Trombay Road at Mandala junction,M/E,19.0429,72.9221,high,RD0235,180,Y

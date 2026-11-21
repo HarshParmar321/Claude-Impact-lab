@@ -1,0 +1,361 @@
+road_id,road_name,ward_code,locality_id,road_class,length_m,width_m,surface_type,under_dlp,dlp_start_date,dlp_end_date,best_bus_route,bus_routes_count,low_lying,condition_index,distress_area_sqm,centroid_lat,centroid_lon
+RD0001,Shahid Bhagat Singh Road,A,LOC001,arterial,2686,24.0,bitumen,N,,,Y,6,N,66,5.9,18.934574,72.816258
+RD0002,Colaba Causeway,A,LOC002,arterial,2235,24.0,bitumen,N,,,N,0,N,70,10.1,18.936198,72.84535
+RD0003,Madame Cama Road,A,LOC003,arterial,3741,24.0,bitumen,Y,2024-08-08,2027-08-08,Y,11,N,60,5.6,18.949115,72.821486
+RD0004,Colaba Road No. 3,A,LOC001,collector,595,12.0,bitumen,N,,,N,0,N,51,9.1,18.933844,72.827878
+RD0005,Fort Station Road 4,A,LOC002,sub-arterial,1353,18.0,bitumen,N,,,Y,1,N,57,9.5,18.935575,72.831002
+RD0006,Cuffe Parade Market Road 5,A,LOC003,local,286,7.5,paver,N,,,N,0,N,84,5.8,18.931631,72.825092
+RD0007,Colaba Market Road 6,A,LOC001,collector,1141,9.0,bitumen,N,,,N,0,N,46,12.6,18.936052,72.82788
+RD0008,Fort Link Road 7,A,LOC002,sub-arterial,1799,15.0,bitumen,N,,,Y,6,Y,33,7.9,18.936588,72.840285
+RD0009,Cuffe Parade Market Road 8,A,LOC003,sub-arterial,1810,15.0,bitumen,N,,,Y,4,Y,81,13.6,18.93727,72.834889
+RD0010,Colaba Market Road 9,A,LOC001,local,277,6.0,bitumen,Y,2024-08-02,2027-08-02,N,0,N,54,4.5,18.933625,72.832567
+RD0011,Fort Cross Lane 10,A,LOC002,sub-arterial,1933,18.0,bitumen,Y,2024-02-13,2027-02-12,Y,1,N,84,15.1,18.939153,72.83871
+RD0012,Cuffe Parade Cross Lane 11,A,LOC003,collector,1021,12.0,paver,N,,,N,0,N,55,2.2,18.933896,72.817604
+RD0013,Colaba Cross Lane 12,A,LOC001,local,500,6.0,bitumen,N,,,N,0,N,60,13.6,18.935291,72.823571
+RD0014,Fort Station Road 13,A,LOC002,arterial,1902,18.0,concrete,N,,,Y,13,Y,64,4.6,18.939967,72.836016
+RD0015,Cuffe Parade Link Road 14,A,LOC003,local,313,7.5,bitumen,N,,,N,0,N,58,4.1,18.933162,72.8264
+RD0016,Colaba Station Road 15,A,LOC001,sub-arterial,1983,18.0,bitumen,N,,,Y,1,Y,76,3.5,18.933613,72.839996
+RD0017,Fort Market Road 16,A,LOC002,local,226,9.0,bitumen,N,,,N,0,N,44,11.9,18.927622,72.833423
+RD0018,Cuffe Parade Road No. 17,A,LOC003,collector,1066,12.0,bitumen,N,,,N,0,Y,68,15.9,18.934581,72.82957
+RD0019,Colaba Road No. 18,A,LOC001,collector,638,12.0,bitumen,N,,,N,0,Y,42,14.6,18.936068,72.826869
+RD0020,Fort Market Road 19,A,LOC002,local,463,9.0,concrete,Y,2023-11-06,2026-11-05,Y,4,N,45,4.1,18.935309,72.834481
+RD0021,Cuffe Parade Road No. 20,A,LOC003,local,384,9.0,bitumen,N,,,N,0,Y,85,13.5,18.931606,72.824356
+RD0022,Colaba Link Road 21,A,LOC001,sub-arterial,1621,15.0,bitumen,N,,,Y,6,Y,49,13.3,18.936572,72.822299
+RD0023,Fort Market Road 22,A,LOC002,collector,756,9.0,bitumen,N,,,N,0,N,90,7.8,18.933068,72.830944
+RD0024,Cuffe Parade Station Road 23,A,LOC003,collector,588,12.0,bitumen,N,,,N,0,Y,43,12.8,18.936721,72.821098
+RD0025,Colaba Road No. 24,A,LOC001,local,254,6.0,concrete,N,,,N,0,N,80,3.7,18.932917,72.830736
+RD0026,Fort Cross Lane 25,A,LOC002,local,524,9.0,bitumen,N,,,N,0,Y,47,14.9,18.933028,72.833899
+RD0027,Cuffe Parade Market Road 26,A,LOC003,local,312,6.0,bitumen,N,,,N,0,N,69,3.8,18.937271,72.822698
+RD0028,Colaba Market Road 27,A,LOC001,sub-arterial,1554,15.0,bitumen,Y,2023-06-03,2026-06-02,Y,4,Y,43,14.2,18.939568,72.828018
+RD0029,Fort Road No. 28,A,LOC002,local,150,7.5,bitumen,Y,2024-07-08,2027-07-08,N,0,N,39,15.6,18.926585,72.838516
+RD0030,Cuffe Parade Station Road 29,A,LOC003,collector,1110,12.0,bitumen,N,,,N,0,N,47,10.2,18.93962,72.826184
+RD0031,Dr. Ambedkar Road (Byculla),E,LOC004,arterial,1983,30.0,bitumen,N,,,Y,11,Y,33,15.6,18.979617,72.852197
+RD0032,Sant Savta Marg,E,LOC005,arterial,4052,30.0,bitumen,N,,,Y,7,N,33,8.2,18.989037,72.817198
+RD0033,Mazgaon Road,E,LOC006,arterial,3600,24.0,concrete,N,,,Y,14,N,50,12.4,18.985593,72.828746
+RD0034,Byculla Cross Lane 3,E,LOC004,collector,943,9.0,bitumen,N,,,N,0,Y,78,9.8,18.975094,72.839136
+RD0035,Mazgaon Road No. 4,E,LOC005,collector,638,9.0,paver,N,,,N,0,N,69,13.4,18.976987,72.829795
+RD0036,Agripada Cross Lane 5,E,LOC006,collector,579,9.0,bitumen,N,,,N,0,N,79,13.6,18.978266,72.827581
+RD0037,Byculla Cross Lane 6,E,LOC004,collector,607,12.0,concrete,N,,,N,0,N,53,9.4,18.97239,72.841521
+RD0038,Mazgaon Station Road 7,E,LOC005,local,386,6.0,concrete,N,,,N,0,N,73,14.7,18.978419,72.83328
+RD0039,Agripada Station Road 8,E,LOC006,collector,1159,12.0,bitumen,N,,,N,0,N,35,12.5,18.974866,72.829209
+RD0040,Byculla Station Road 9,E,LOC004,sub-arterial,1974,18.0,bitumen,N,,,Y,4,N,85,6.8,18.975849,72.847379
+RD0041,Mazgaon Link Road 10,E,LOC005,local,291,9.0,bitumen,N,,,Y,5,Y,64,2.7,18.97983,72.832469
+RD0042,Agripada Market Road 11,E,LOC006,arterial,3498,30.0,bitumen,N,,,Y,9,N,63,11.0,18.974851,72.817735
+RD0043,Byculla Road No. 12,E,LOC004,local,235,9.0,paver,N,,,Y,6,N,39,13.5,18.970401,72.844142
+RD0044,Mazgaon Station Road 13,E,LOC005,arterial,2596,30.0,bitumen,N,,,N,0,N,70,15.6,18.98877,72.827419
+RD0045,Agripada Station Road 14,E,LOC006,local,594,6.0,bitumen,N,,,Y,3,Y,70,13.3,18.974663,72.832685
+RD0046,Byculla Market Road 15,E,LOC004,sub-arterial,920,18.0,bitumen,N,,,Y,4,Y,33,8.7,18.973973,72.838378
+RD0047,Mazgaon Market Road 16,E,LOC005,collector,473,12.0,paver,N,,,N,0,N,62,10.2,18.980678,72.836005
+RD0048,Agripada Link Road 17,E,LOC006,sub-arterial,2082,18.0,bitumen,N,,,Y,5,Y,28,14.9,18.983481,72.833979
+RD0049,Byculla Station Road 18,E,LOC004,sub-arterial,1798,15.0,concrete,N,,,Y,1,Y,28,4.7,18.977306,72.844652
+RD0050,Mazgaon Station Road 19,E,LOC005,collector,537,9.0,bitumen,N,,,N,0,Y,46,11.6,18.97932,72.829396
+RD0051,Agripada Market Road 20,E,LOC006,collector,688,12.0,bitumen,N,,,N,0,N,29,3.1,18.974962,72.836279
+RD0052,Byculla Station Road 21,E,LOC004,local,380,9.0,bitumen,N,,,N,0,N,88,12.2,18.974983,72.840284
+RD0053,Mazgaon Link Road 22,E,LOC005,local,441,6.0,concrete,N,,,N,0,Y,82,4.7,18.976796,72.829665
+RD0054,Agripada Market Road 23,E,LOC006,sub-arterial,2025,18.0,bitumen,N,,,Y,3,N,47,2.8,18.979887,72.822782
+RD0055,Byculla Link Road 24,E,LOC004,local,249,7.5,bitumen,N,,,N,0,Y,45,11.8,18.974573,72.844634
+RD0056,Mazgaon Market Road 25,E,LOC005,sub-arterial,1681,15.0,paver,N,,,Y,1,N,68,9.8,18.977173,72.823271
+RD0057,Agripada Road No. 26,E,LOC006,sub-arterial,1667,15.0,bitumen,N,,,Y,5,Y,35,6.1,18.970569,72.837145
+RD0058,Byculla Market Road 27,E,LOC004,collector,730,12.0,bitumen,N,,,N,0,N,35,4.6,18.972894,72.841824
+RD0059,Mazgaon Link Road 28,E,LOC005,sub-arterial,1097,18.0,concrete,N,,,Y,3,N,77,12.5,18.975803,72.83626
+RD0060,Agripada Cross Lane 29,E,LOC006,collector,927,9.0,bitumen,N,,,N,0,N,61,8.3,18.975402,72.836067
+RD0061,Sion Circle Approach Road,F/N,LOC007,arterial,2832,30.0,bitumen,N,,,Y,7,Y,72,12.4,19.031356,72.864998
+RD0062,Wadala Station Road,F/N,LOC008,arterial,2342,18.0,bitumen,N,,,Y,15,N,47,12.7,19.044284,72.867869
+RD0063,Matunga Road,F/N,LOC009,arterial,2437,30.0,bitumen,N,,,Y,4,Y,56,4.0,19.027295,72.867327
+RD0064,Matunga Market Road 3,F/N,LOC007,local,370,7.5,concrete,N,,,N,0,Y,77,14.7,19.026823,72.85585
+RD0065,Sion Market Road 4,F/N,LOC008,sub-arterial,1396,15.0,bitumen,N,,,Y,3,Y,87,10.2,19.047825,72.863957
+RD0066,Wadala Road No. 5,F/N,LOC009,local,341,7.5,bitumen,N,,,N,0,N,63,5.9,19.024133,72.85687
+RD0067,Matunga Station Road 6,F/N,LOC007,collector,940,12.0,bitumen,N,,,N,0,N,56,6.5,19.029167,72.849812
+RD0068,Sion Station Road 7,F/N,LOC008,sub-arterial,966,15.0,bitumen,N,,,Y,5,N,65,12.7,19.04364,72.852129
+RD0069,Wadala Station Road 8,F/N,LOC009,arterial,2193,24.0,bitumen,N,,,N,0,N,54,3.3,19.03017,72.856285
+RD0070,Matunga Road No. 9,F/N,LOC007,local,170,7.5,paver,Y,2023-06-27,2026-06-26,Y,1,Y,80,5.3,19.021107,72.855274
+RD0071,Sion Station Road 10,F/N,LOC008,collector,805,12.0,bitumen,Y,2024-06-15,2027-06-15,N,0,N,87,7.7,19.038075,72.862989
+RD0072,Wadala Cross Lane 11,F/N,LOC009,local,408,7.5,bitumen,Y,2024-12-23,2027-12-23,N,0,Y,76,15.9,19.02533,72.858276
+RD0073,Matunga Road No. 12,F/N,LOC007,local,400,7.5,concrete,N,,,N,0,N,89,7.9,19.028776,72.857618
+RD0074,Sion Market Road 13,F/N,LOC008,local,284,7.5,concrete,N,,,N,0,N,63,3.1,19.037465,72.854911
+RD0075,Wadala Link Road 14,F/N,LOC009,sub-arterial,2011,15.0,paver,N,,,Y,1,Y,55,6.2,19.02223,72.851277
+RD0076,Matunga Cross Lane 15,F/N,LOC007,collector,616,9.0,bitumen,N,,,N,0,Y,69,11.2,19.023796,72.851022
+RD0077,Sion Link Road 16,F/N,LOC008,collector,861,12.0,bitumen,N,,,N,0,Y,89,4.7,19.038273,72.857718
+RD0078,Wadala Link Road 17,F/N,LOC009,sub-arterial,1220,18.0,concrete,N,,,Y,6,N,87,7.1,19.025772,72.864088
+RD0079,Matunga Market Road 18,F/N,LOC007,local,151,9.0,paver,N,,,N,0,N,85,12.8,19.021927,72.856245
+RD0080,Sion Cross Lane 19,F/N,LOC008,local,517,6.0,bitumen,N,,,N,0,Y,76,7.9,19.036729,72.862469
+RD0081,Wadala Market Road 20,F/N,LOC009,sub-arterial,1549,18.0,concrete,N,,,Y,1,Y,55,14.5,19.027473,72.8641
+RD0082,Matunga Market Road 21,F/N,LOC007,sub-arterial,1599,15.0,bitumen,N,,,Y,4,Y,75,8.5,19.030247,72.860726
+RD0083,Sion Cross Lane 22,F/N,LOC008,local,245,7.5,bitumen,N,,,N,0,Y,28,9.3,19.040979,72.860968
+RD0084,Wadala Market Road 23,F/N,LOC009,local,343,6.0,bitumen,N,,,N,0,N,88,5.1,19.023752,72.856779
+RD0085,Matunga Market Road 24,F/N,LOC007,arterial,2948,24.0,bitumen,N,,,N,0,N,47,8.6,19.039208,72.86411
+RD0086,Sion Road No. 25,F/N,LOC008,local,280,9.0,concrete,N,,,N,0,Y,29,3.3,19.035321,72.859419
+RD0087,Wadala Market Road 26,F/N,LOC009,local,338,6.0,bitumen,N,,,N,0,Y,28,11.1,19.022569,72.861127
+RD0088,Matunga Cross Lane 27,F/N,LOC007,sub-arterial,1035,12.0,bitumen,N,,,Y,6,N,89,2.9,19.025721,72.860126
+RD0089,Sion Market Road 28,F/N,LOC008,local,365,9.0,bitumen,N,,,N,0,N,54,7.1,19.036568,72.858167
+RD0090,Wadala Cross Lane 29,F/N,LOC009,local,185,6.0,paver,N,,,N,0,N,85,7.2,19.02751,72.857289
+RD0091,Senapati Bapat Marg,G/N,LOC010,arterial,1900,30.0,bitumen,N,,,N,0,N,28,8.4,19.021014,72.838376
+RD0092,Gokhale Road,G/N,LOC011,arterial,2588,30.0,concrete,N,,,Y,5,Y,35,13.6,19.027619,72.839296
+RD0093,Dharavi 90 Feet Road,G/N,LOC012,arterial,2783,24.0,bitumen,Y,2024-11-20,2027-11-20,Y,7,Y,61,14.8,19.03054,72.840454
+RD0094,Dadar Road No. 3,G/N,LOC010,local,503,7.5,bitumen,N,,,N,0,Y,82,15.3,19.018369,72.838359
+RD0095,Mahim Link Road 4,G/N,LOC011,collector,577,9.0,bitumen,Y,2024-09-07,2027-09-07,N,0,Y,70,10.7,19.021039,72.84767
+RD0096,Dharavi Market Road 5,G/N,LOC012,collector,1121,9.0,paver,N,,,Y,2,N,78,14.3,19.021995,72.843069
+RD0097,Dadar Link Road 6,G/N,LOC010,local,171,9.0,bitumen,N,,,N,0,Y,39,3.6,19.019245,72.839398
+RD0098,Mahim Road No. 7,G/N,LOC011,local,273,9.0,concrete,N,,,N,0,N,60,11.6,19.019053,72.846922
+RD0099,Dharavi Station Road 8,G/N,LOC012,collector,406,12.0,bitumen,N,,,N,0,Y,64,12.9,19.019349,72.842998
+RD0100,Dadar Cross Lane 9,G/N,LOC010,local,472,6.0,concrete,N,,,N,0,N,88,15.3,19.018668,72.835859
+RD0101,Mahim Station Road 10,G/N,LOC011,collector,1114,9.0,bitumen,N,,,N,0,N,34,12.3,19.02179,72.845157
+RD0102,Dharavi Market Road 11,G/N,LOC012,sub-arterial,1208,15.0,bitumen,N,,,Y,3,Y,74,5.7,19.026067,72.846975
+RD0103,Dadar Station Road 12,G/N,LOC010,local,516,7.5,bitumen,Y,2024-02-18,2027-02-17,N,0,N,71,6.3,19.019265,72.838854
+RD0104,Mahim Cross Lane 13,G/N,LOC011,local,281,7.5,concrete,N,,,N,0,N,58,15.2,19.018137,72.8443
+RD0105,Dharavi Link Road 14,G/N,LOC012,local,215,7.5,bitumen,N,,,N,0,N,42,10.8,19.021273,72.846654
+RD0106,Dadar Station Road 15,G/N,LOC010,arterial,3724,18.0,bitumen,N,,,Y,10,Y,36,10.4,19.025132,72.827686
+RD0107,Mahim Cross Lane 16,G/N,LOC011,collector,1166,12.0,paver,N,,,N,0,Y,69,13.6,19.01455,72.837089
+RD0108,Dharavi Cross Lane 17,G/N,LOC012,collector,1189,12.0,bitumen,N,,,N,0,Y,81,12.7,19.023196,72.846178
+RD0109,Dadar Cross Lane 18,G/N,LOC010,collector,607,12.0,bitumen,N,,,N,0,N,50,4.2,19.015966,72.8425
+RD0110,Mahim Station Road 19,G/N,LOC011,sub-arterial,1929,18.0,bitumen,N,,,Y,5,N,76,14.2,19.021861,72.836408
+RD0111,Dharavi Cross Lane 20,G/N,LOC012,local,498,6.0,bitumen,N,,,N,0,N,34,8.0,19.021758,72.846885
+RD0112,Dadar Road No. 21,G/N,LOC010,local,593,6.0,bitumen,N,,,N,0,Y,42,12.3,19.0192,72.838159
+RD0113,Mahim Link Road 22,G/N,LOC011,collector,709,12.0,bitumen,N,,,Y,2,Y,72,13.9,19.017014,72.841542
+RD0114,Dharavi Market Road 23,G/N,LOC012,local,325,6.0,paver,N,,,N,0,N,79,11.6,19.022114,72.842499
+RD0115,Dadar Station Road 24,G/N,LOC010,local,395,7.5,bitumen,N,,,N,0,Y,69,4.8,19.020425,72.835837
+RD0116,Mahim Road No. 25,G/N,LOC011,sub-arterial,1766,12.0,bitumen,N,,,Y,5,N,87,4.5,19.018721,72.855501
+RD0117,Dharavi Road No. 26,G/N,LOC012,collector,992,12.0,bitumen,N,,,Y,4,Y,30,12.2,19.029409,72.850089
+RD0118,Dadar Market Road 27,G/N,LOC010,arterial,3407,30.0,paver,N,,,Y,15,N,32,12.0,19.020799,72.849379
+RD0119,Mahim Market Road 28,G/N,LOC011,local,371,6.0,bitumen,N,,,N,0,Y,62,10.2,19.013493,72.841381
+RD0120,Dharavi Market Road 29,G/N,LOC012,sub-arterial,1931,12.0,bitumen,N,,,Y,4,N,70,15.4,19.020552,72.853794
+RD0121,S.V. Road (Bandra),H/W,LOC013,arterial,4003,18.0,concrete,N,,,Y,10,N,51,13.1,19.061071,72.846664
+RD0122,Linking Road,H/W,LOC014,arterial,3171,24.0,bitumen,N,,,N,0,N,58,6.2,19.063734,72.821122
+RD0123,Hill Road,H/W,LOC015,arterial,2824,24.0,bitumen,N,,,Y,12,N,81,9.7,19.068127,72.855853
+RD0124,Bandra West Station Road 3,H/W,LOC013,local,558,7.5,bitumen,N,,,N,0,Y,35,10.1,19.056987,72.831903
+RD0125,Khar West Station Road 4,H/W,LOC014,local,386,9.0,concrete,N,,,N,0,N,91,8.4,19.061342,72.831871
+RD0126,Santacruz West Cross Lane 5,H/W,LOC015,sub-arterial,1336,15.0,bitumen,N,,,Y,3,N,61,12.9,19.06459,72.834764
+RD0127,Bandra West Road No. 6,H/W,LOC013,collector,1033,12.0,bitumen,Y,2024-07-11,2027-07-11,N,0,N,61,10.9,19.053903,72.836651
+RD0128,Khar West Road No. 7,H/W,LOC014,sub-arterial,1719,12.0,bitumen,N,,,Y,5,Y,90,5.0,19.062172,72.839829
+RD0129,Santacruz West Market Road 8,H/W,LOC015,local,376,7.5,bitumen,N,,,N,0,N,65,12.8,19.070054,72.841731
+RD0130,Bandra West Road No. 9,H/W,LOC013,local,408,6.0,concrete,N,,,Y,4,N,87,2.1,19.055033,72.834273
+RD0131,Khar West Link Road 10,H/W,LOC014,sub-arterial,1430,15.0,concrete,Y,2025-01-20,2028-01-20,Y,1,N,62,9.5,19.063929,72.832267
+RD0132,Santacruz West Road No. 11,H/W,LOC015,collector,549,12.0,bitumen,N,,,Y,5,Y,76,9.4,19.070484,72.83253
+RD0133,Bandra West Link Road 12,H/W,LOC013,collector,1019,12.0,bitumen,N,,,N,0,Y,80,9.5,19.057918,72.827789
+RD0134,Khar West Road No. 13,H/W,LOC014,local,513,6.0,bitumen,N,,,N,0,Y,46,6.4,19.056772,72.83707
+RD0135,Santacruz West Link Road 14,H/W,LOC015,local,481,6.0,bitumen,N,,,N,0,N,77,7.5,19.071323,72.835522
+RD0136,Bandra West Road No. 15,H/W,LOC013,collector,580,9.0,bitumen,N,,,N,0,N,54,15.2,19.055507,72.835767
+RD0137,Khar West Station Road 16,H/W,LOC014,sub-arterial,1373,18.0,bitumen,N,,,Y,1,N,64,15.9,19.059054,72.834284
+RD0138,Santacruz West Market Road 17,H/W,LOC015,sub-arterial,1627,15.0,bitumen,N,,,Y,2,N,75,4.0,19.077807,72.845985
+RD0139,Bandra West Market Road 18,H/W,LOC013,local,261,7.5,bitumen,N,,,N,0,Y,36,3.6,19.056765,72.836481
+RD0140,Khar West Cross Lane 19,H/W,LOC014,local,215,6.0,bitumen,N,,,N,0,N,39,14.9,19.060792,72.827968
+RD0141,Santacruz West Road No. 20,H/W,LOC015,local,207,7.5,concrete,N,,,N,0,N,55,7.2,19.06793,72.837053
+RD0142,Bandra West Market Road 21,H/W,LOC013,local,357,7.5,bitumen,N,,,N,0,N,51,6.3,19.054472,72.834808
+RD0143,Khar West Cross Lane 22,H/W,LOC014,local,547,9.0,concrete,N,,,N,0,Y,87,14.1,19.058953,72.829652
+RD0144,Santacruz West Station Road 23,H/W,LOC015,sub-arterial,1781,12.0,concrete,N,,,Y,6,Y,82,13.5,19.071719,72.836405
+RD0145,Bandra West Cross Lane 24,H/W,LOC013,local,423,9.0,concrete,N,,,N,0,N,68,8.8,19.057383,72.830659
+RD0146,Khar West Link Road 25,H/W,LOC014,collector,422,12.0,bitumen,N,,,N,0,N,49,12.2,19.060299,72.834454
+RD0147,Santacruz West Market Road 26,H/W,LOC015,collector,826,12.0,concrete,N,,,N,0,N,69,4.8,19.074318,72.840035
+RD0148,Bandra West Station Road 27,H/W,LOC013,sub-arterial,1046,12.0,bitumen,N,,,N,0,N,73,13.7,19.057526,72.828893
+RD0149,Khar West Road No. 28,H/W,LOC014,arterial,2521,24.0,concrete,N,,,Y,7,N,69,10.7,19.058252,72.845394
+RD0150,Santacruz West Station Road 29,H/W,LOC015,local,235,7.5,bitumen,N,,,N,0,Y,75,14.2,19.068301,72.838597
+RD0151,Andheri–Kurla Road,K/E,LOC016,arterial,3293,24.0,bitumen,N,,,Y,15,N,29,5.6,19.129656,72.880426
+RD0152,Marol Maroshi Road,K/E,LOC017,arterial,2855,18.0,bitumen,N,,,Y,4,N,52,3.3,19.128274,72.86516
+RD0153,Mahakali Caves Road,K/E,LOC018,arterial,4059,18.0,paver,N,,,Y,6,N,35,6.2,19.13386,72.885639
+RD0154,Andheri East Road No. 3,K/E,LOC016,local,326,7.5,concrete,N,,,Y,4,N,55,7.2,19.121372,72.870859
+RD0155,Marol Station Road 4,K/E,LOC017,collector,964,12.0,paver,N,,,N,0,Y,87,10.3,19.111357,72.861775
+RD0156,Jogeshwari East Link Road 5,K/E,LOC018,collector,440,12.0,concrete,N,,,N,0,N,38,3.8,19.122565,72.87293
+RD0157,Andheri East Link Road 6,K/E,LOC016,sub-arterial,1775,12.0,concrete,N,,,Y,2,N,69,4.6,19.126277,72.864781
+RD0158,Marol Road No. 7,K/E,LOC017,sub-arterial,2106,15.0,bitumen,N,,,Y,2,N,64,9.8,19.11504,72.860044
+RD0159,Jogeshwari East Link Road 8,K/E,LOC018,arterial,3425,24.0,bitumen,N,,,Y,11,N,63,12.6,19.134503,72.863429
+RD0160,Andheri East Link Road 9,K/E,LOC016,collector,852,9.0,concrete,N,,,N,0,N,29,4.4,19.124352,72.868378
+RD0161,Marol Station Road 10,K/E,LOC017,local,247,9.0,bitumen,N,,,N,0,N,45,8.8,19.109493,72.86519
+RD0162,Jogeshwari East Road No. 11,K/E,LOC018,local,346,7.5,bitumen,N,,,N,0,N,70,10.4,19.117406,72.868844
+RD0163,Andheri East Road No. 12,K/E,LOC016,collector,1171,12.0,bitumen,Y,2024-07-24,2027-07-24,N,0,N,80,5.8,19.121829,72.871544
+RD0164,Marol Link Road 13,K/E,LOC017,collector,1195,9.0,concrete,N,,,N,0,N,44,4.6,19.1172,72.86513
+RD0165,Jogeshwari East Station Road 14,K/E,LOC018,local,206,7.5,concrete,N,,,N,0,N,55,10.1,19.117843,72.866184
+RD0166,Andheri East Station Road 15,K/E,LOC016,sub-arterial,1483,15.0,concrete,N,,,Y,2,Y,90,3.7,19.12625,72.863724
+RD0167,Marol Link Road 16,K/E,LOC017,local,430,7.5,bitumen,N,,,N,0,Y,56,11.5,19.116544,72.865016
+RD0168,Jogeshwari East Road No. 17,K/E,LOC018,local,530,9.0,concrete,N,,,N,0,N,32,14.6,19.125959,72.864692
+RD0169,Andheri East Link Road 18,K/E,LOC016,sub-arterial,2161,12.0,bitumen,N,,,Y,6,N,62,3.0,19.129796,72.862028
+RD0170,Marol Link Road 19,K/E,LOC017,sub-arterial,1995,18.0,concrete,N,,,Y,4,N,65,15.6,19.111047,72.875307
+RD0171,Jogeshwari East Road No. 20,K/E,LOC018,sub-arterial,1416,18.0,bitumen,N,,,Y,6,N,66,7.0,19.117871,72.863847
+RD0172,Andheri East Station Road 21,K/E,LOC016,local,526,7.5,bitumen,Y,2023-06-27,2026-06-26,Y,6,N,69,6.7,19.118613,72.874941
+RD0173,Marol Road No. 22,K/E,LOC017,collector,1148,12.0,paver,N,,,N,0,N,90,4.7,19.119644,72.867079
+RD0174,Jogeshwari East Road No. 23,K/E,LOC018,collector,1113,9.0,bitumen,N,,,N,0,Y,44,5.7,19.120464,72.872359
+RD0175,Andheri East Link Road 24,K/E,LOC016,local,373,6.0,concrete,N,,,N,0,N,72,8.4,19.118824,72.872015
+RD0176,Marol Link Road 25,K/E,LOC017,arterial,2522,24.0,bitumen,N,,,Y,11,Y,72,2.5,19.118642,72.870665
+RD0177,Jogeshwari East Cross Lane 26,K/E,LOC018,sub-arterial,1998,15.0,bitumen,Y,2024-05-07,2027-05-07,Y,5,N,62,6.0,19.127109,72.85983
+RD0178,Andheri East Road No. 27,K/E,LOC016,sub-arterial,2062,18.0,bitumen,N,,,Y,2,N,29,11.6,19.123696,72.863242
+RD0179,Marol Market Road 28,K/E,LOC017,local,523,9.0,concrete,N,,,N,0,N,37,13.9,19.115734,72.86856
+RD0180,Jogeshwari East Link Road 29,K/E,LOC018,collector,597,12.0,bitumen,N,,,N,0,N,31,2.5,19.122072,72.874475
+RD0181,LBS Marg (Kurla),L,LOC019,arterial,3765,30.0,bitumen,Y,2024-04-11,2027-04-11,Y,4,N,74,6.9,19.083551,72.883184
+RD0182,Saki Vihar Road,L,LOC020,arterial,4152,24.0,bitumen,N,,,Y,15,Y,81,4.4,19.086254,72.862944
+RD0183,CST Road (Kurla),L,LOC021,arterial,3117,18.0,bitumen,N,,,Y,7,Y,62,8.3,19.085546,72.874876
+RD0184,Kurla Market Road 3,L,LOC019,local,370,6.0,bitumen,N,,,N,0,N,91,15.0,19.07138,72.89342
+RD0185,Saki Naka Road No. 4,L,LOC020,local,579,7.5,bitumen,N,,,N,0,N,52,3.2,19.080756,72.880121
+RD0186,Chandivali Link Road 5,L,LOC021,sub-arterial,1739,18.0,concrete,Y,2024-11-13,2027-11-13,Y,3,Y,74,8.5,19.079102,72.883095
+RD0187,Kurla Station Road 6,L,LOC019,local,264,7.5,concrete,N,,,N,0,Y,33,10.9,19.075884,72.895242
+RD0188,Saki Naka Cross Lane 7,L,LOC020,sub-arterial,1669,15.0,bitumen,N,,,Y,3,Y,76,15.2,19.080462,72.87555
+RD0189,Chandivali Cross Lane 8,L,LOC021,collector,856,12.0,bitumen,N,,,N,0,Y,29,8.8,19.071752,72.886582
+RD0190,Kurla Road No. 9,L,LOC019,collector,1192,12.0,bitumen,N,,,N,0,N,43,14.9,19.074797,72.89403
+RD0191,Saki Naka Cross Lane 10,L,LOC020,arterial,2172,30.0,paver,N,,,Y,9,Y,32,8.3,19.085574,72.888863
+RD0192,Chandivali Road No. 11,L,LOC021,sub-arterial,1948,12.0,bitumen,N,,,Y,5,N,47,10.6,19.07994,72.890886
+RD0193,Kurla Link Road 12,L,LOC019,local,179,6.0,bitumen,N,,,N,0,N,56,10.2,19.072453,72.890687
+RD0194,Saki Naka Station Road 13,L,LOC020,sub-arterial,1455,12.0,bitumen,N,,,Y,2,Y,71,2.1,19.081722,72.882534
+RD0195,Chandivali Market Road 14,L,LOC021,local,431,9.0,bitumen,N,,,N,0,Y,89,13.2,19.070482,72.883683
+RD0196,Kurla Cross Lane 15,L,LOC019,collector,744,12.0,bitumen,N,,,N,0,Y,83,12.9,19.073778,72.887908
+RD0197,Saki Naka Market Road 16,L,LOC020,sub-arterial,1367,18.0,concrete,N,,,Y,5,Y,39,14.7,19.0858,72.887655
+RD0198,Chandivali Link Road 17,L,LOC021,collector,992,12.0,bitumen,N,,,N,0,Y,90,15.2,19.07667,72.886247
+RD0199,Kurla Station Road 18,L,LOC019,collector,640,12.0,bitumen,N,,,N,0,Y,49,7.6,19.075963,72.888137
+RD0200,Saki Naka Station Road 19,L,LOC020,collector,810,12.0,bitumen,N,,,N,0,N,45,13.2,19.078584,72.884207
+RD0201,Chandivali Station Road 20,L,LOC021,collector,430,9.0,bitumen,N,,,N,0,Y,34,7.6,19.067304,72.879488
+RD0202,Kurla Road No. 21,L,LOC019,sub-arterial,1173,15.0,bitumen,N,,,Y,4,N,53,10.9,19.078835,72.890908
+RD0203,Saki Naka Link Road 22,L,LOC020,sub-arterial,1766,18.0,concrete,N,,,Y,5,N,43,14.7,19.088754,72.882525
+RD0204,Chandivali Link Road 23,L,LOC021,local,301,9.0,concrete,N,,,N,0,Y,78,3.2,19.074288,72.881922
+RD0205,Kurla Station Road 24,L,LOC019,sub-arterial,1660,12.0,paver,N,,,Y,2,Y,31,11.4,19.083059,72.897162
+RD0206,Saki Naka Road No. 25,L,LOC020,collector,795,9.0,concrete,N,,,N,0,N,86,5.2,19.07729,72.88828
+RD0207,Chandivali Cross Lane 26,L,LOC021,local,162,6.0,concrete,N,,,Y,5,Y,74,15.6,19.075403,72.885094
+RD0208,Kurla Cross Lane 27,L,LOC019,arterial,2297,30.0,bitumen,N,,,Y,12,Y,90,8.5,19.078919,72.898658
+RD0209,Saki Naka Station Road 28,L,LOC020,local,569,9.0,concrete,N,,,N,0,Y,40,7.6,19.077041,72.886169
+RD0210,Chandivali Cross Lane 29,L,LOC021,local,599,9.0,bitumen,N,,,N,0,N,29,14.8,19.07082,72.882622
+RD0211,Ghatkopar–Mankhurd Link Road,M/E,LOC022,arterial,2065,24.0,bitumen,N,,,Y,11,N,63,14.2,19.059824,72.93226
+RD0212,Deonar Farm Road,M/E,LOC023,arterial,3336,30.0,bitumen,N,,,N,0,N,47,7.8,19.06508,72.922695
+RD0213,Mankhurd Station Road,M/E,LOC024,arterial,3134,24.0,bitumen,N,,,N,0,Y,52,11.8,19.049474,72.944692
+RD0214,Deonar Road No. 3,M/E,LOC025,collector,502,9.0,bitumen,N,,,N,0,Y,55,4.7,19.0514,72.933815
+RD0215,Govandi Market Road 4,M/E,LOC022,local,183,9.0,bitumen,N,,,N,0,N,79,5.9,19.056048,72.926213
+RD0216,Mankhurd Cross Lane 5,M/E,LOC023,collector,572,12.0,bitumen,N,,,Y,6,N,57,6.3,19.051475,72.925516
+RD0217,Trombay Cross Lane 6,M/E,LOC024,arterial,3988,24.0,concrete,N,,,Y,8,Y,89,6.2,19.04778,72.917425
+RD0218,Deonar Market Road 7,M/E,LOC025,arterial,2777,30.0,concrete,N,,,N,0,Y,76,11.0,19.058703,72.93646
+RD0219,Govandi Cross Lane 8,M/E,LOC022,collector,750,12.0,bitumen,N,,,Y,3,Y,82,8.7,19.054331,72.925839
+RD0220,Mankhurd Link Road 9,M/E,LOC023,collector,621,12.0,bitumen,Y,2023-10-03,2026-10-02,N,0,N,28,5.7,19.050422,72.920363
+RD0221,Trombay Road No. 10,M/E,LOC024,sub-arterial,2060,12.0,bitumen,N,,,Y,5,Y,76,8.3,19.05018,72.929101
+RD0222,Deonar Link Road 11,M/E,LOC025,collector,987,12.0,bitumen,N,,,N,0,Y,70,5.4,19.052452,72.936452
+RD0223,Govandi Cross Lane 12,M/E,LOC022,collector,922,12.0,bitumen,N,,,N,0,N,83,12.0,19.056983,72.924387
+RD0224,Mankhurd Station Road 13,M/E,LOC023,collector,479,12.0,bitumen,N,,,N,0,Y,43,7.7,19.050644,72.928638
+RD0225,Trombay Road No. 14,M/E,LOC024,sub-arterial,1652,18.0,bitumen,N,,,N,0,Y,36,15.5,19.046006,72.926903
+RD0226,Deonar Cross Lane 15,M/E,LOC025,collector,1099,12.0,bitumen,N,,,Y,6,N,37,3.0,19.049796,72.93491
+RD0227,Govandi Market Road 16,M/E,LOC022,collector,1196,9.0,bitumen,N,,,N,0,Y,80,4.6,19.053556,72.918071
+RD0228,Mankhurd Market Road 17,M/E,LOC023,sub-arterial,1648,18.0,bitumen,N,,,Y,5,Y,75,10.3,19.052924,72.919508
+RD0229,Trombay Station Road 18,M/E,LOC024,sub-arterial,927,15.0,bitumen,Y,2023-11-19,2026-11-18,Y,2,N,89,11.2,19.046557,72.936764
+RD0230,Deonar Link Road 19,M/E,LOC025,collector,459,9.0,bitumen,N,,,N,0,Y,85,12.0,19.049393,72.932298
+RD0231,Govandi Road No. 20,M/E,LOC022,sub-arterial,1740,12.0,bitumen,N,,,Y,5,Y,52,13.8,19.060285,72.925547
+RD0232,Mankhurd Link Road 21,M/E,LOC023,collector,466,9.0,concrete,N,,,N,0,N,63,14.1,19.05307,72.924092
+RD0233,Trombay Station Road 22,M/E,LOC024,collector,487,9.0,bitumen,N,,,N,0,Y,78,9.6,19.045219,72.93033
+RD0234,Deonar Market Road 23,M/E,LOC025,local,533,6.0,bitumen,N,,,N,0,Y,45,10.9,19.048983,72.932869
+RD0235,Sion Trombay Road,M/E,LOC024,arterial,3600,24.0,bitumen,Y,2024-02-15,2027-02-14,Y,15,Y,41,11.5,19.0438,72.918
+RD0236,Mankhurd Market Road 25,M/E,LOC023,local,480,6.0,concrete,N,,,N,0,N,67,2.1,19.053423,72.922415
+RD0237,Trombay Market Road 26,M/E,LOC024,arterial,3266,24.0,concrete,N,,,Y,11,N,60,5.0,19.059733,72.936242
+RD0238,Deonar Cross Lane 27,M/E,LOC025,collector,1118,9.0,bitumen,N,,,N,0,N,55,6.2,19.055144,72.931816
+RD0239,Govandi Road No. 28,M/E,LOC022,local,219,7.5,bitumen,N,,,N,0,Y,91,12.3,19.055964,72.92412
+RD0240,Mankhurd Road No. 29,M/E,LOC023,sub-arterial,1977,15.0,bitumen,N,,,Y,4,N,31,7.3,19.055711,72.924445
+RD0241,Chembur Station Road,M/W,LOC026,arterial,3892,18.0,concrete,N,,,Y,7,N,45,14.4,19.071855,72.91082
+RD0242,R.C. Marg,M/W,LOC027,arterial,3844,18.0,bitumen,N,,,Y,8,Y,46,14.9,19.059473,72.915053
+RD0243,Diamond Garden Road,M/W,LOC028,arterial,2489,30.0,bitumen,N,,,Y,7,N,49,14.2,19.07691,72.900154
+RD0244,Chembur Cross Lane 3,M/W,LOC026,local,239,7.5,bitumen,Y,2023-11-17,2026-11-16,N,0,Y,65,2.7,19.053855,72.903487
+RD0245,Tilak Nagar Road No. 4,M/W,LOC027,sub-arterial,1345,18.0,concrete,N,,,Y,2,N,41,15.2,19.063984,72.894411
+RD0246,Chembur Camp Cross Lane 5,M/W,LOC028,collector,822,9.0,bitumen,N,,,N,0,Y,41,6.1,19.066579,72.902476
+RD0247,Chembur Cross Lane 6,M/W,LOC026,local,364,6.0,bitumen,Y,2023-11-12,2026-11-11,N,0,N,87,9.1,19.054502,72.902587
+RD0248,Tilak Nagar Market Road 7,M/W,LOC027,collector,595,12.0,bitumen,N,,,N,0,N,43,14.9,19.056285,72.890955
+RD0249,Chembur Camp Cross Lane 8,M/W,LOC028,local,528,7.5,bitumen,N,,,N,0,N,83,2.3,19.066619,72.905687
+RD0250,Chembur Market Road 9,M/W,LOC026,collector,431,12.0,bitumen,N,,,N,0,Y,62,7.6,19.057758,72.909175
+RD0251,Tilak Nagar Market Road 10,M/W,LOC027,local,288,9.0,bitumen,Y,2023-06-21,2026-06-20,N,0,N,43,6.3,19.059346,72.89338
+RD0252,Chembur Camp Station Road 11,M/W,LOC028,local,212,9.0,concrete,N,,,N,0,Y,56,7.5,19.059503,72.902689
+RD0253,Chembur Station Road 12,M/W,LOC026,sub-arterial,1996,12.0,bitumen,N,,,Y,2,Y,59,4.5,19.063309,72.901096
+RD0254,Tilak Nagar Road No. 13,M/W,LOC027,arterial,3723,30.0,bitumen,N,,,Y,10,N,30,7.4,19.069925,72.886661
+RD0255,Chembur Camp Cross Lane 14,M/W,LOC028,local,593,7.5,bitumen,N,,,N,0,N,66,7.9,19.059128,72.905706
+RD0256,Chembur Market Road 15,M/W,LOC026,local,313,9.0,bitumen,N,,,N,0,Y,76,4.9,19.053878,72.907493
+RD0257,Tilak Nagar Cross Lane 16,M/W,LOC027,local,364,9.0,bitumen,N,,,N,0,N,48,10.4,19.052213,72.892069
+RD0258,Chembur Camp Station Road 17,M/W,LOC028,collector,982,12.0,concrete,N,,,Y,6,N,54,8.8,19.065983,72.907868
+RD0259,Chembur Road No. 18,M/W,LOC026,local,272,7.5,concrete,N,,,N,0,Y,36,11.6,19.055635,72.902441
+RD0260,Tilak Nagar Link Road 19,M/W,LOC027,sub-arterial,1115,12.0,concrete,N,,,Y,5,N,42,10.5,19.056118,72.895165
+RD0261,Chembur Camp Road No. 20,M/W,LOC028,arterial,2385,18.0,bitumen,N,,,Y,6,N,75,14.9,19.067662,72.891638
+RD0262,Chembur Road No. 21,M/W,LOC026,arterial,2232,18.0,bitumen,N,,,Y,5,N,38,4.5,19.061831,72.897548
+RD0263,Tilak Nagar Cross Lane 22,M/W,LOC027,collector,600,9.0,bitumen,N,,,N,0,Y,90,4.2,19.054315,72.890593
+RD0264,Chembur Camp Link Road 23,M/W,LOC028,local,356,6.0,bitumen,N,,,N,0,N,90,5.8,19.060026,72.900935
+RD0265,Chembur Station Road 24,M/W,LOC026,collector,523,12.0,bitumen,Y,2024-02-16,2027-02-15,Y,6,Y,90,7.8,19.055375,72.901923
+RD0266,Tilak Nagar Link Road 25,M/W,LOC027,collector,1152,12.0,bitumen,N,,,N,0,N,43,8.8,19.056002,72.888653
+RD0267,Chembur Camp Link Road 26,M/W,LOC028,collector,680,9.0,bitumen,N,,,N,0,N,37,15.7,19.064375,72.903731
+RD0268,Chembur Market Road 27,M/W,LOC026,sub-arterial,1696,18.0,concrete,N,,,N,0,N,34,10.6,19.059045,72.893918
+RD0269,Tilak Nagar Market Road 28,M/W,LOC027,local,314,9.0,concrete,N,,,N,0,N,48,2.2,19.057061,72.891195
+RD0270,Chembur Camp Cross Lane 29,M/W,LOC028,sub-arterial,1478,18.0,bitumen,N,,,N,0,Y,50,12.8,19.070176,72.896068
+RD0271,LBS Marg (Ghatkopar),N,LOC029,arterial,4188,24.0,bitumen,N,,,N,0,N,79,12.2,19.111248,72.916918
+RD0272,M.G. Road (Ghatkopar),N,LOC030,arterial,3632,30.0,bitumen,N,,,Y,15,Y,41,12.3,19.107128,72.923741
+RD0273,Vikhroli Station Road,N,LOC031,arterial,2177,18.0,bitumen,N,,,Y,7,N,62,4.8,19.08878,72.916304
+RD0274,Ghatkopar Road No. 3,N,LOC029,local,369,6.0,bitumen,N,,,N,0,Y,44,2.1,19.098713,72.923876
+RD0275,Vidyavihar Cross Lane 4,N,LOC030,collector,554,9.0,bitumen,N,,,N,0,N,62,13.5,19.095995,72.908633
+RD0276,Vikhroli Link Road 5,N,LOC031,local,271,7.5,bitumen,N,,,N,0,N,91,10.2,19.086053,72.906948
+RD0277,Ghatkopar Link Road 6,N,LOC029,sub-arterial,1158,18.0,bitumen,N,,,Y,2,N,39,9.0,19.100263,72.91899
+RD0278,Vidyavihar Road No. 7,N,LOC030,sub-arterial,917,15.0,bitumen,N,,,Y,1,N,57,3.1,19.095274,72.912782
+RD0279,Vikhroli Cross Lane 8,N,LOC031,local,545,9.0,concrete,Y,2025-01-28,2028-01-28,N,0,N,55,13.3,19.083749,72.91223
+RD0280,Ghatkopar Link Road 9,N,LOC029,local,536,6.0,bitumen,N,,,N,0,N,91,6.7,19.097854,72.921937
+RD0281,Vidyavihar Link Road 10,N,LOC030,arterial,3913,18.0,concrete,N,,,Y,11,N,35,12.1,19.104893,72.931518
+RD0282,Vikhroli Link Road 11,N,LOC031,local,198,6.0,bitumen,N,,,N,0,N,37,7.1,19.084362,72.909972
+RD0283,Ghatkopar Station Road 12,N,LOC029,local,214,7.5,paver,N,,,N,0,Y,75,10.8,19.093858,72.920723
+RD0284,Vidyavihar Cross Lane 13,N,LOC030,sub-arterial,1508,15.0,bitumen,N,,,Y,4,N,89,4.9,19.099692,72.921991
+RD0285,Vikhroli Road No. 14,N,LOC031,collector,764,12.0,bitumen,N,,,Y,1,N,71,14.6,19.091684,72.900867
+RD0286,Ghatkopar Station Road 15,N,LOC029,collector,664,12.0,bitumen,N,,,N,0,N,91,4.6,19.096426,72.918069
+RD0287,Vidyavihar Link Road 16,N,LOC030,collector,967,9.0,bitumen,N,,,N,0,Y,83,10.7,19.099391,72.921748
+RD0288,Vikhroli Link Road 17,N,LOC031,local,499,7.5,bitumen,N,,,N,0,N,55,13.9,19.090841,72.903438
+RD0289,Ghatkopar Cross Lane 18,N,LOC029,sub-arterial,1784,12.0,bitumen,N,,,Y,2,N,58,4.0,19.100675,72.920239
+RD0290,Vidyavihar Market Road 19,N,LOC030,collector,440,9.0,bitumen,N,,,N,0,N,34,4.1,19.100572,72.909905
+RD0291,Vikhroli Link Road 20,N,LOC031,sub-arterial,2137,18.0,bitumen,N,,,N,0,Y,53,14.3,19.094209,72.911549
+RD0292,Ghatkopar Road No. 21,N,LOC029,local,229,7.5,bitumen,N,,,N,0,N,35,3.7,19.091626,72.914655
+RD0293,Vidyavihar Cross Lane 22,N,LOC030,local,481,6.0,paver,N,,,N,0,Y,76,2.2,19.095659,72.910276
+RD0294,Vikhroli Station Road 23,N,LOC031,sub-arterial,1618,18.0,bitumen,N,,,Y,3,Y,29,12.1,19.089043,72.903878
+RD0295,Ghatkopar Market Road 24,N,LOC029,arterial,3469,24.0,bitumen,N,,,Y,11,N,49,5.3,19.113726,72.92401
+RD0296,Vidyavihar Cross Lane 25,N,LOC030,local,299,9.0,paver,N,,,N,0,N,57,11.7,19.096749,72.915881
+RD0297,Vikhroli Cross Lane 26,N,LOC031,sub-arterial,1167,12.0,bitumen,N,,,N,0,Y,37,9.1,19.09174,72.908557
+RD0298,Ghatkopar Road No. 27,N,LOC029,sub-arterial,1936,12.0,bitumen,N,,,Y,5,N,83,11.4,19.102868,72.920775
+RD0299,Vidyavihar Road No. 28,N,LOC030,collector,414,9.0,concrete,N,,,N,0,Y,60,13.4,19.094462,72.91241
+RD0300,Vikhroli Market Road 29,N,LOC031,local,196,6.0,concrete,N,,,N,0,N,36,9.5,19.083476,72.903553
+RD0301,JVLR (Powai),S,LOC032,arterial,3775,24.0,concrete,N,,,Y,6,N,67,11.8,19.143188,72.911265
+RD0302,Bhandup Village Road,S,LOC033,arterial,2447,24.0,concrete,N,,,Y,15,N,74,11.0,19.149448,72.923707
+RD0303,Kanjurmarg Station Road,S,LOC034,arterial,2300,24.0,bitumen,N,,,Y,8,Y,72,5.7,19.137268,72.93981
+RD0304,Bhandup Road No. 3,S,LOC032,sub-arterial,1306,12.0,bitumen,N,,,N,0,N,29,5.7,19.137051,72.924262
+RD0305,Kanjurmarg Market Road 4,S,LOC033,local,382,9.0,concrete,N,,,N,0,N,46,12.9,19.141462,72.932965
+RD0306,Powai Road No. 5,S,LOC034,sub-arterial,1408,12.0,bitumen,N,,,Y,2,Y,78,8.1,19.14086,72.926564
+RD0307,Bhandup Cross Lane 6,S,LOC032,local,449,6.0,bitumen,N,,,N,0,N,50,15.8,19.142562,72.926356
+RD0308,Kanjurmarg Link Road 7,S,LOC033,sub-arterial,1310,15.0,bitumen,N,,,N,0,N,46,2.8,19.146433,72.930651
+RD0309,Powai Station Road 8,S,LOC034,local,572,7.5,bitumen,N,,,N,0,N,55,12.6,19.139551,72.932278
+RD0310,Bhandup Market Road 9,S,LOC032,local,568,9.0,bitumen,Y,2024-03-21,2027-03-21,N,0,N,42,14.8,19.143121,72.925373
+RD0311,Kanjurmarg Link Road 10,S,LOC033,local,582,9.0,concrete,N,,,N,0,Y,48,9.8,19.144959,72.929137
+RD0312,Powai Market Road 11,S,LOC034,sub-arterial,1132,18.0,concrete,N,,,N,0,N,42,3.6,19.142114,72.929248
+RD0313,Bhandup Road No. 12,S,LOC032,local,155,9.0,bitumen,N,,,N,0,N,51,15.5,19.139754,72.927728
+RD0314,Kanjurmarg Market Road 13,S,LOC033,local,390,9.0,bitumen,N,,,N,0,N,63,15.9,19.14692,72.932914
+RD0315,Powai Station Road 14,S,LOC034,sub-arterial,1412,18.0,concrete,N,,,Y,6,Y,60,9.8,19.132365,72.920973
+RD0316,Bhandup Market Road 15,S,LOC032,collector,1041,9.0,bitumen,N,,,N,0,N,46,8.3,19.14461,72.924767
+RD0317,Kanjurmarg Market Road 16,S,LOC033,sub-arterial,994,18.0,concrete,N,,,N,0,Y,86,9.2,19.142211,72.9334
+RD0318,Powai Cross Lane 17,S,LOC034,collector,485,12.0,concrete,N,,,N,0,N,37,14.0,19.131573,72.925907
+RD0319,Bhandup Cross Lane 18,S,LOC032,local,203,6.0,bitumen,N,,,N,0,Y,54,13.5,19.137905,72.927629
+RD0320,Kanjurmarg Station Road 19,S,LOC033,sub-arterial,1825,15.0,concrete,Y,2023-11-23,2026-11-22,Y,2,Y,59,11.3,19.152408,72.931826
+RD0321,Powai Link Road 20,S,LOC034,collector,615,9.0,bitumen,N,,,Y,3,N,54,11.7,19.132687,72.935295
+RD0322,Bhandup Cross Lane 21,S,LOC032,sub-arterial,1023,12.0,paver,N,,,Y,4,N,90,6.0,19.145868,72.931934
+RD0323,Kanjurmarg Link Road 22,S,LOC033,collector,1122,9.0,concrete,N,,,N,0,Y,42,3.2,19.140338,72.925678
+RD0324,Powai Link Road 23,S,LOC034,collector,605,12.0,bitumen,N,,,N,0,N,76,14.7,19.132584,72.92368
+RD0325,Bhandup Link Road 24,S,LOC032,collector,667,12.0,paver,N,,,N,0,N,48,10.0,19.142094,72.932339
+RD0326,Kanjurmarg Road No. 25,S,LOC033,arterial,3435,24.0,concrete,N,,,Y,10,N,49,11.9,19.149742,72.915719
+RD0327,Powai Cross Lane 26,S,LOC034,local,191,6.0,bitumen,N,,,N,0,N,67,11.7,19.133804,72.930968
+RD0328,Bhandup Road No. 27,S,LOC032,arterial,2112,30.0,bitumen,N,,,Y,14,Y,83,4.9,19.147939,72.925484
+RD0329,Kanjurmarg Station Road 28,S,LOC033,local,229,6.0,concrete,N,,,N,0,N,56,8.2,19.139453,72.935227
+RD0330,Powai Cross Lane 29,S,LOC034,arterial,2689,18.0,bitumen,N,,,Y,15,N,87,10.4,19.14106,72.924919
+RD0331,Marve Road,P/N,LOC035,arterial,3170,24.0,concrete,N,,,Y,5,N,83,8.4,19.206978,72.845257
+RD0332,S.V. Road (Malad),P/N,LOC036,arterial,3226,30.0,bitumen,N,,,Y,5,N,32,10.7,19.193425,72.843815
+RD0333,Dindoshi Link Road,P/N,LOC037,arterial,2515,30.0,bitumen,Y,2024-08-14,2027-08-14,Y,13,N,31,6.9,19.188566,72.84349
+RD0334,Malad Cross Lane 3,P/N,LOC035,collector,1039,12.0,bitumen,N,,,N,0,Y,87,15.8,19.1943,72.849897
+RD0335,Malvani Road No. 4,P/N,LOC036,sub-arterial,1590,15.0,concrete,N,,,Y,6,N,64,6.6,19.183951,72.829634
+RD0336,Dindoshi Market Road 5,P/N,LOC037,local,254,7.5,bitumen,N,,,N,0,Y,53,6.0,19.17784,72.852944
+RD0337,Malad Cross Lane 6,P/N,LOC035,sub-arterial,1278,18.0,concrete,N,,,Y,1,Y,55,4.2,19.197203,72.844988
+RD0338,Malvani Market Road 7,P/N,LOC036,local,505,9.0,bitumen,N,,,N,0,N,85,4.1,19.181563,72.83484
+RD0339,Dindoshi Link Road 8,P/N,LOC037,sub-arterial,1963,12.0,bitumen,N,,,Y,2,Y,86,12.6,19.187167,72.840676
+RD0340,Malad Link Road 9,P/N,LOC035,sub-arterial,2195,18.0,concrete,N,,,Y,3,Y,29,7.7,19.194329,72.851992
+RD0341,Malvani Link Road 10,P/N,LOC036,collector,781,12.0,paver,N,,,N,0,N,60,9.0,19.184893,72.841486
+RD0342,Dindoshi Market Road 11,P/N,LOC037,collector,562,12.0,bitumen,N,,,N,0,N,45,10.0,19.180291,72.856561
+RD0343,Malad Station Road 12,P/N,LOC035,local,239,9.0,bitumen,N,,,N,0,Y,79,5.6,19.190429,72.846645
+RD0344,Malvani Station Road 13,P/N,LOC036,sub-arterial,2054,15.0,bitumen,N,,,Y,6,N,79,8.8,19.177349,72.849841
+RD0345,Dindoshi Cross Lane 14,P/N,LOC037,local,556,9.0,bitumen,N,,,N,0,Y,80,8.4,19.183156,72.856153
+RD0346,Malad Market Road 15,P/N,LOC035,collector,427,9.0,concrete,Y,2024-08-12,2027-08-12,N,0,Y,91,12.7,19.187847,72.84444
+RD0347,Malvani Station Road 16,P/N,LOC036,local,450,9.0,bitumen,Y,2023-09-28,2026-09-27,N,0,N,58,14.9,19.177776,72.835549
+RD0348,Dindoshi Cross Lane 17,P/N,LOC037,collector,1018,9.0,bitumen,N,,,N,0,N,52,4.1,19.182312,72.850379
+RD0349,Malad Link Road 18,P/N,LOC035,sub-arterial,1586,15.0,concrete,N,,,Y,4,N,44,14.8,19.195247,72.850937
+RD0350,Malvani Station Road 19,P/N,LOC036,sub-arterial,1131,12.0,bitumen,N,,,Y,6,N,57,12.6,19.177046,72.836171
+RD0351,Dindoshi Link Road 20,P/N,LOC037,collector,1115,12.0,bitumen,N,,,N,0,N,69,13.5,19.180867,72.851012
+RD0352,Malad Cross Lane 21,P/N,LOC035,collector,1121,9.0,bitumen,N,,,N,0,Y,73,13.6,19.196791,72.852666
+RD0353,Malvani Market Road 22,P/N,LOC036,sub-arterial,1808,18.0,bitumen,N,,,Y,5,N,39,15.9,19.186065,72.842518
+RD0354,Dindoshi Market Road 23,P/N,LOC037,local,402,9.0,concrete,N,,,N,0,N,75,7.5,19.182022,72.849276
+RD0355,Malad Market Road 24,P/N,LOC035,local,157,6.0,bitumen,N,,,Y,4,N,61,3.0,19.193329,72.850722
+RD0356,Malvani Road No. 25,P/N,LOC036,local,350,9.0,bitumen,Y,2024-09-06,2027-09-06,Y,5,N,44,14.6,19.175426,72.838226
+RD0357,Dindoshi Station Road 26,P/N,LOC037,collector,1098,9.0,bitumen,N,,,N,0,Y,62,8.7,19.182495,72.855477
+RD0358,Malad Station Road 27,P/N,LOC035,collector,1185,9.0,concrete,N,,,N,0,N,61,2.7,19.197873,72.843031
+RD0359,Malvani Station Road 28,P/N,LOC036,local,241,9.0,concrete,N,,,N,0,N,42,15.9,19.174882,72.837159
+RD0360,Dindoshi Link Road 29,P/N,LOC037,collector,807,9.0,bitumen,N,,,N,0,N,35,15.3,19.179576,72.850695

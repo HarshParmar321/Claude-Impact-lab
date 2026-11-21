@@ -1,0 +1,11 @@
+rate_card_id,work_type,repair_method,unit,standard_rate_inr,expected_life_months,effective_from
+RC01,pothole_patch,cold_mix,per sqm,1450,6,2025-04-01
+RC02,pothole_patch,hot_mix,per sqm,2600,18,2025-04-01
+RC03,pothole_patch,mastic_asphalt,per sqm,4600,36,2025-04-01
+RC04,pothole_patch,jet_patcher,per sqm,1900,12,2025-04-01
+RC05,surface_restoration,hot_mix,per sqm,1150,48,2025-04-01
+RC06,surface_restoration,mastic_asphalt,per sqm,3900,60,2025-04-01
+RC07,trench_reinstatement,paver_block,per sqm,2200,36,2025-04-01
+RC08,trench_reinstatement,hot_mix,per sqm,2400,24,2025-04-01
+RC09,drain_cover_replacement,precast_cover,per job,14500,60,2025-04-01
+RC10,drain_cover_replacement,ductile_iron_cover,per job,26000,96,2025-04-01

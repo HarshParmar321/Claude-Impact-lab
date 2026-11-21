@@ -1,0 +1,13 @@
+ward_code,ward_name,zone,population,area_sqkm,annual_road_budget_inr,low_lying_share,centroid_lat,centroid_lon
+A,A Ward (Colaba–Fort),City,185000,12.4,41000000,0.3,18.925,72.83
+E,E Ward (Byculla),City,393000,7.4,38000000,0.35,18.975,72.835
+F/N,F/North Ward (Matunga–Sion),City,529000,12.9,46000000,0.45,19.03,72.86
+G/N,G/North Ward (Dadar–Dharavi),City,599000,9.1,44000000,0.4,19.02,72.842
+H/W,H/West Ward (Bandra West),Western Suburbs,307000,12.8,43000000,0.25,19.06,72.832
+K/E,K/East Ward (Andheri East),Western Suburbs,823000,23.8,52000000,0.2,19.115,72.865
+L,L Ward (Kurla),Eastern Suburbs,902000,15.9,48000000,0.5,19.072,72.886
+M/E,M/East Ward (Govandi–Mankhurd–Trombay),Eastern Suburbs,807000,32.5,47000000,0.55,19.048,72.925
+M/W,M/West Ward (Chembur),Eastern Suburbs,411000,19.0,40000000,0.35,19.058,72.898
+N,N Ward (Ghatkopar),Eastern Suburbs,622000,25.6,45000000,0.3,19.088,72.912
+S,S Ward (Bhandup–Powai),Eastern Suburbs,743000,31.0,46000000,0.25,19.14,72.93
+P/N,P/North Ward (Malad),Western Suburbs,941000,46.7,50000000,0.3,19.185,72.845

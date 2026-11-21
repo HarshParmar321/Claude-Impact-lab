@@ -1,0 +1,142 @@
+post_id,platform,posted_at,language,text,road_id,linked_complaint_id,link_basis,likes
+SP0001,X,2025-08-04T07:06,hinglish,"Khar West Station Road 16 pe bahut bada pothole hai, bikes slip ho rahi hain.",,,Location not verifiable,29
+SP0002,X,2025-07-28T14:45,en,"Water logging on Cuffe Parade Road No. 17 after rain, road surface breaking.",,,Location not verifiable,26
+SP0003,X,2025-07-17T06:50,en,"Big pothole on Dharavi Market Road 29, two-wheelers are skidding.",,,Location not verifiable,22
+SP0004,Instagram,2025-06-11T12:42,mr,"LBS Marg (Kurla) वरील बस थांब्याजवळ खड्डा आहे, कृपया दुरुस्त करा.",,,Location not verifiable,24
+SP0005,Instagram,2025-02-03T15:51,en,"Pothole near the bus stop on Mazgaon Market Road 16, please fix.",RD0047,BMC25-000214,Post quotes complaint number,23
+SP0006,Instagram,2025-01-30T08:00,en,"Big pothole on Tilak Nagar Road No. 13, two-wheelers are skidding.",RD0254,BMC25-000183,Post quotes complaint number,27
+SP0007,Instagram,2025-09-10T22:14,mr,"Matunga Station Road 6 वर मोठा खड्डा आहे, दुचाकी घसरत आहेत.",RD0067,BMC25-004543,Post quotes complaint number,36
+SP0008,X,2025-07-15T13:16,en,"Broken manhole cover on Powai Station Road 8, someone could fall in.",RD0309,BMC25-003122,Post quotes complaint number,24
+SP0009,Facebook,2025-03-28T17:50,en,"Water logging on Vidyavihar Link Road 10 after rain, road surface breaking.",RD0281,BMC25-000554,Post quotes complaint number,21
+SP0010,X,2025-06-05T19:44,hi,"Jogeshwari East Link Road 8 पर बस स्टॉप के पास गड्ढा है, कृपया ठीक करें।",RD0159,BMC25-001747,Post quotes complaint number,13
+SP0011,Instagram,2025-04-04T17:32,hi,"Khar West Cross Lane 22 पर बड़ा गड्ढा है, बाइक फिसल रही हैं।",RD0143,BMC25-000640,Post quotes complaint number,19
+SP0012,X,2025-08-16T08:06,en,Road surface on Colaba Market Road 9 has cracked and broken after the trench work.,RD0010,BMC25-004043,Post quotes complaint number,22
+SP0013,Facebook,2025-06-13T07:08,hi,"Agripada Market Road 11 पर बस स्टॉप के पास गड्ढा है, कृपया ठीक करें।",RD0042,BMC25-002011,Post quotes complaint number,28
+SP0014,Facebook,2025-09-27T10:29,mr,"Agripada Road No. 26 वर मोठा खड्डा आहे, दुचाकी घसरत आहेत.",,,Location not verifiable,23
+SP0015,Facebook,2025-04-08T10:37,mr,"Deonar Link Road 11 वर मोठा खड्डा आहे, दुचाकी घसरत आहेत.",RD0222,BMC25-000706,Post quotes complaint number,17
+SP0016,X,2025-08-03T07:00,hi,"Wadala Station Road 8 पर बड़ा गड्ढा है, बाइक फिसल रही हैं।",,,Location not verifiable,24
+SP0017,X,2025-10-07T07:55,mr,खोदकामानंतर Bhandup Cross Lane 21 चा रस्ता उखडला आहे.,RD0322,BMC25-004971,Post quotes complaint number,28
+SP0018,Instagram,2025-10-20T10:32,hi,"Mankhurd Station Road पर बड़ा गड्ढा है, बाइक फिसल रही हैं।",,,Location not verifiable,28
+SP0019,Facebook,2025-06-29T18:30,en,"Pothole near the bus stop on Dharavi 90 Feet Road, please fix.",,,Location not verifiable,26
+SP0020,X,2025-04-11T08:46,en,"Big pothole on Agripada Link Road 17, two-wheelers are skidding.",,,Location not verifiable,25
+SP0021,X,2025-02-10T20:20,hinglish,"Baarish ke baad Bandra West Cross Lane 24 pe paani bhar jaata hai, road toot raha hai.",,,Location not verifiable,24
+SP0022,X,2025-02-15T22:59,hi,"Matunga Market Road 24 पर बस स्टॉप के पास गड्ढा है, कृपया ठीक करें।",RD0085,BMC25-000295,Post quotes complaint number,34
+SP0023,X,2025-04-30T08:16,hinglish,"Ghatkopar Link Road 6 pe bahut bada pothole hai, bikes slip ho rahi hain.",,,Location not verifiable,29
+SP0024,Instagram,2025-04-14T09:18,mr,"Sion Link Road 16 वरील बस थांब्याजवळ खड्डा आहे, कृपया दुरुस्त करा.",,,Location not verifiable,32
+SP0025,X,2025-06-07T11:01,en,"Broken manhole cover on Matunga Road No. 9, someone could fall in.",RD0070,BMC25-001795,Post quotes complaint number,34
+SP0026,X,2025-08-24T22:04,en,"Big pothole on S.V. Road (Malad), two-wheelers are skidding.",RD0332,BMC25-004229,Post quotes complaint number,25
+SP0027,X,2025-07-25T10:15,hinglish,"Wadala Station Road 8 bus stop ke paas khadda hai, jaldi theek karo.",,,Location not verifiable,23
+SP0028,X,2025-05-17T19:17,hinglish,Khudai ke baad Colaba Road No. 24 ki road kharab ho gayi hai.,,,Location not verifiable,37
+SP0029,X,2025-08-28T08:14,hinglish,Sion Trombay Road pe gutter ka dhakkan missing hai.,,,Location not verifiable,32
+SP0030,Instagram,2025-05-26T08:18,hi,"Mazgaon Station Road 13 पर बस स्टॉप के पास गड्ढा है, कृपया ठीक करें।",RD0044,BMC25-001488,Post quotes complaint number,24
+SP0031,X,2025-09-28T20:34,en,"Pothole near the bus stop on Chandivali Cross Lane 26, please fix.",,,Location not verifiable,22
+SP0032,X,2025-07-17T12:32,en,"Big pothole on Dadar Market Road 27, two-wheelers are skidding.",,,Location not verifiable,16
+SP0033,X,2025-10-08T13:09,mr,खोदकामानंतर Kanjurmarg Link Road 10 चा रस्ता उखडला आहे.,RD0311,BMC25-004987,Post quotes complaint number,9
+SP0034,Instagram,2025-05-23T06:34,en,"Broken manhole cover on Malad Link Road 18, someone could fall in.",RD0349,BMC25-001438,Post quotes complaint number,26
+SP0035,Instagram,2025-03-13T07:56,hinglish,"Baarish ke baad Trombay Road No. 10 pe paani bhar jaata hai, road toot raha hai.",RD0221,BMC25-000462,Post quotes complaint number,26
+SP0036,Facebook,2025-07-29T16:55,en,"Water logging on Chembur Station Road after rain, road surface breaking.",,,Location not verifiable,22
+SP0037,X,2025-07-29T10:00,en,"Pothole near the bus stop on Jogeshwari East Road No. 20, please fix.",,,Location not verifiable,22
+SP0038,Instagram,2025-09-17T11:06,en,Road surface on Fort Cross Lane 10 has cracked and broken after the trench work.,RD0011,BMC25-004660,Post quotes complaint number,23
+SP0039,X,2025-08-24T20:33,en,"Pothole near the bus stop on Colaba Link Road 21, please fix.",,,Location not verifiable,21
+SP0040,Instagram,2025-06-04T17:49,hi,खुदाई के बाद Sion Cross Lane 22 की सड़क टूट गई है।,,,Location not verifiable,21
+SP0041,X,2025-08-15T07:27,hi,Agripada Cross Lane 29 पर नाले का ढक्कन गायब है।,RD0060,BMC25-004023,Post quotes complaint number,24
+SP0042,Instagram,2025-06-16T08:48,mr,"Dharavi Cross Lane 17 वरील बस थांब्याजवळ खड्डा आहे, कृपया दुरुस्त करा.",RD0108,BMC25-002113,Post quotes complaint number,27
+SP0043,X,2025-06-01T19:10,hinglish,"Kurla Road No. 9 pe bahut bada pothole hai, bikes slip ho rahi hain.",,,Location not verifiable,28
+SP0044,X,2025-02-25T06:43,hinglish,"Diamond Garden Road pe bahut bada pothole hai, bikes slip ho rahi hain.",,,Location not verifiable,33
+SP0045,X,2025-09-29T11:50,hi,"Saki Naka Cross Lane 10 पर बस स्टॉप के पास गड्ढा है, कृपया ठीक करें।",RD0191,BMC25-004885,Post quotes complaint number,27
+SP0046,Instagram,2025-06-30T12:50,en,"Deep pothole on Dharavi Station Road 8 filled with water, very dangerous at night.",,,Location not verifiable,19
+SP0047,X,2025-05-27T21:48,en,"Pothole near the bus stop on Santacruz West Station Road 23, please fix.",,,Location not verifiable,27
+SP0048,Instagram,2025-09-06T08:22,mr,"Vidyavihar Cross Lane 13 वर मोठा खड्डा आहे, दुचाकी घसरत आहेत.",RD0284,BMC25-004462,Post quotes complaint number,29
+SP0049,Instagram,2025-06-16T14:07,hinglish,Khudai ke baad Marve Road ki road kharab ho gayi hai.,RD0331,BMC25-002119,Post quotes complaint number,21
+SP0050,X,2025-07-01T07:41,hi,Saki Vihar Road पर नाले का ढक्कन गायब है।,RD0182,BMC25-002635,Post quotes complaint number,30
+SP0051,Instagram,2025-06-27T11:19,hi,बारिश के बाद Ghatkopar Market Road 24 पर पानी भर जाता है।,,,Location not verifiable,21
+SP0052,X,2025-07-17T17:02,hinglish,"Wadala Market Road 26 bus stop ke paas khadda hai, jaldi theek karo.",RD0087,BMC25-003200,Post quotes complaint number,35
+SP0053,X,2025-06-18T13:10,hi,"Ghatkopar Link Road 9 पर बड़ा गड्ढा है, बाइक फिसल रही हैं।",,,Location not verifiable,24
+SP0054,X,2025-09-10T18:55,en,Road surface on M.G. Road (Ghatkopar) has cracked and broken after the trench work.,RD0272,BMC25-004538,Post quotes complaint number,29
+SP0055,X,2025-04-21T09:44,mr,"Marol Maroshi Road वर मोठा खड्डा आहे, दुचाकी घसरत आहेत.",RD0152,BMC25-000926,Post quotes complaint number,24
+SP0056,X,2025-06-11T06:46,hinglish,"Baarish ke baad Trombay Road No. 14 pe paani bhar jaata hai, road toot raha hai.",,,Location not verifiable,20
+SP0057,X,2025-07-01T17:28,mr,"Ghatkopar Cross Lane 18 वर मोठा खड्डा आहे, दुचाकी घसरत आहेत.",RD0289,BMC25-002652,Post quotes complaint number,17
+SP0058,X,2025-08-30T15:17,en,"Pothole near the bus stop on Marol Link Road 19, please fix.",RD0170,BMC25-004323,Post quotes complaint number,23
+SP0059,Instagram,2025-08-12T13:43,hi,खुदाई के बाद Wadala Link Road 14 की सड़क टूट गई है।,,,Location not verifiable,24
+SP0060,X,2025-05-01T08:13,en,Drain cover missing on Bhandup Village Road.,RD0302,BMC25-001099,Post quotes complaint number,25
+SP0061,Facebook,2025-01-28T12:15,hi,"Madame Cama Road पर बस स्टॉप के पास गड्ढा है, कृपया ठीक करें।",RD0003,BMC25-000168,Post quotes complaint number,26
+SP0062,X,2025-04-17T12:04,mr,खोदकामानंतर Fort Market Road 16 चा रस्ता उखडला आहे.,RD0017,BMC25-000862,Post quotes complaint number,21
+SP0063,Instagram,2025-09-01T10:24,en,"Big pothole on Saki Naka Market Road 16, two-wheelers are skidding.",,,Location not verifiable,29
+SP0064,X,2025-06-09T22:21,mr,"Mankhurd Station Road 13 वरील बस थांब्याजवळ खड्डा आहे, कृपया दुरुस्त करा.",,,Location not verifiable,24
+SP0065,X,2025-07-02T10:59,en,Road surface on Fort Station Road 4 has cracked and broken after the trench work.,,,Location not verifiable,24
+SP0066,Facebook,2025-07-19T12:42,en,"Big pothole on Chandivali Road No. 11, two-wheelers are skidding.",,,Location not verifiable,33
+SP0067,X,2025-06-17T17:35,hi,"Agripada Road No. 26 पर बस स्टॉप के पास गड्ढा है, कृपया ठीक करें।",,,Location not verifiable,21
+SP0068,Facebook,2025-04-25T19:57,mr,"Wadala Station Road वर मोठा खड्डा आहे, दुचाकी घसरत आहेत.",RD0062,BMC25-000995,Post quotes complaint number,30
+SP0069,Facebook,2025-06-18T10:35,hinglish,"Mankhurd Road No. 29 pe bahut bada pothole hai, bikes slip ho rahi hain.",,,Location not verifiable,30
+SP0070,Facebook,2025-10-11T11:04,hinglish,"Govandi Road No. 20 bus stop ke paas khadda hai, jaldi theek karo.",,,Location not verifiable,27
+SP0071,Facebook,2025-05-26T20:01,hi,"Saki Naka Link Road 22 पर बड़ा गड्ढा है, बाइक फिसल रही हैं।",,,Location not verifiable,26
+SP0072,X,2025-08-31T14:45,hi,खुदाई के बाद Bhandup Cross Lane 21 की सड़क टूट गई है।,,,Location not verifiable,23
+SP0073,X,2025-07-27T10:06,en,"Pothole near the bus stop on Mahim Market Road 28, please fix.",,,Location not verifiable,19
+SP0074,X,2025-06-13T18:47,en,"Big pothole on Wadala Market Road 20, two-wheelers are skidding.",RD0081,BMC25-002034,Post quotes complaint number,23
+SP0075,Instagram,2025-01-07T17:39,hi,"Santacruz West Market Road 8 पर बस स्टॉप के पास गड्ढा है, कृपया ठीक करें।",,,Location not verifiable,26
+SP0076,X,2025-05-31T20:27,mr,"Vikhroli Station Road वर मोठा खड्डा आहे, दुचाकी घसरत आहेत.",,,Location not verifiable,23
+SP0077,X,2025-05-26T17:46,en,"Big pothole on Deonar Farm Road, two-wheelers are skidding.",RD0212,BMC25-001497,Post quotes complaint number,25
+SP0078,X,2025-09-21T22:36,en,"Deep pothole on Govandi Road No. 28 filled with water, very dangerous at night.",RD0239,BMC25-004741,Post quotes complaint number,19
+SP0079,X,2025-07-16T12:44,en,"Big pothole on Trombay Road No. 14, two-wheelers are skidding.",,,Location not verifiable,19
+SP0080,X,2025-04-15T16:18,hi,Agripada Market Road 23 पर नाले का ढक्कन गायब है।,RD0054,BMC25-000824,Post quotes complaint number,24
+SP0081,X,2025-06-27T16:18,hi,Kurla Cross Lane 15 पर नाले का ढक्कन गायब है।,,,Location not verifiable,23
+SP0082,X,2025-04-05T10:08,en,Road surface on Trombay Market Road 26 has cracked and broken after the trench work.,RD0237,BMC25-000647,Post quotes complaint number,28
+SP0083,X,2025-02-25T13:18,en,"Deep pothole on Marol Link Road 19 filled with water, very dangerous at night.",,,Location not verifiable,19
+SP0084,Instagram,2025-06-18T17:15,en,Road surface on Dharavi 90 Feet Road has cracked and broken after the trench work.,RD0093,BMC25-002199,Post quotes complaint number,20
+SP0085,X,2025-02-16T14:06,en,"Deep pothole on Ghatkopar Link Road 9 filled with water, very dangerous at night.",,,Location not verifiable,21
+SP0086,Facebook,2025-03-17T19:27,hinglish,"Dadar Station Road 15 pe bahut bada pothole hai, bikes slip ho rahi hain.",,,Location not verifiable,21
+SP0087,Instagram,2025-06-10T11:39,mr,खोदकामानंतर Jogeshwari East Road No. 20 चा रस्ता उखडला आहे.,RD0171,BMC25-001899,Post quotes complaint number,28
+SP0088,X,2025-03-11T21:53,mr,"Andheri East Road No. 27 वरील बस थांब्याजवळ खड्डा आहे, कृपया दुरुस्त करा.",RD0178,BMC25-000450,Post quotes complaint number,34
+SP0089,Instagram,2025-06-05T08:22,hi,"Powai Cross Lane 17 पर बस स्टॉप के पास गड्ढा है, कृपया ठीक करें।",RD0318,BMC25-001726,Post quotes complaint number,35
+SP0090,X,2025-03-06T09:35,en,"Broken manhole cover on Marol Link Road 19, someone could fall in.",,,Location not verifiable,18
+SP0091,Instagram,2025-04-09T12:46,mr,"Mankhurd Road No. 29 वर मोठा खड्डा आहे, दुचाकी घसरत आहेत.",,,Location not verifiable,28
+SP0092,Facebook,2025-06-17T16:46,en,"Big pothole on Marol Link Road 19, two-wheelers are skidding.",,,Location not verifiable,26
+SP0093,X,2025-03-26T07:05,en,"Water logging on Vidyavihar Cross Lane 4 after rain, road surface breaking.",RD0275,BMC25-000539,Post quotes complaint number,23
+SP0094,X,2025-04-09T19:09,mr,"M.G. Road (Ghatkopar) वर मोठा खड्डा आहे, दुचाकी घसरत आहेत.",,,Location not verifiable,23
+SP0095,X,2025-01-23T18:06,mr,"Powai Station Road 14 वरील बस थांब्याजवळ खड्डा आहे, कृपया दुरुस्त करा.",,,Location not verifiable,38
+SP0096,Facebook,2025-08-12T19:46,hinglish,Khudai ke baad Mahim Cross Lane 16 ki road kharab ho gayi hai.,RD0107,BMC25-003982,Post quotes complaint number,18
+SP0097,Instagram,2025-05-11T07:06,en,"Pothole near the bus stop on Agripada Market Road 20, please fix.",RD0051,BMC25-001239,Post quotes complaint number,23
+SP0098,Facebook,2025-10-03T16:06,hinglish,"Byculla Road No. 12 bus stop ke paas khadda hai, jaldi theek karo.",,,Location not verifiable,25
+SP0099,X,2025-07-10T18:59,mr,"पावसानंतर Mankhurd Station Road वर पाणी साचते, रस्ता खराब होत आहे.",,,Location not verifiable,30
+SP0100,Facebook,2025-09-30T16:23,mr,"Agripada Market Road 11 वरील बस थांब्याजवळ खड्डा आहे, कृपया दुरुस्त करा.",RD0042,BMC25-004900,Post quotes complaint number,18
+SP0101,X,2025-08-12T20:41,mr,"Mahim Station Road 19 वरील बस थांब्याजवळ खड्डा आहे, कृपया दुरुस्त करा.",,,Location not verifiable,22
+SP0102,Instagram,2025-09-20T09:59,hi,खुदाई के बाद Matunga Station Road 6 की सड़क टूट गई है।,RD0067,BMC25-004708,Post quotes complaint number,17
+SP0103,X,2025-04-12T21:08,hinglish,Wadala Link Road 14 pe gutter ka dhakkan missing hai.,RD0075,BMC25-000786,Post quotes complaint number,30
+SP0104,X,2025-07-18T19:41,en,"Broken manhole cover on Kanjurmarg Link Road 7, someone could fall in.",,,Location not verifiable,36
+SP0105,Instagram,2025-09-01T19:37,hi,खुदाई के बाद Malvani Market Road 7 की सड़क टूट गई है।,RD0338,BMC25-004379,Post quotes complaint number,24
+SP0106,Instagram,2025-05-31T16:35,hinglish,"Dindoshi Link Road bus stop ke paas khadda hai, jaldi theek karo.",,,Location not verifiable,27
+SP0107,X,2025-08-15T07:43,hinglish,Khudai ke baad Santacruz West Cross Lane 5 ki road kharab ho gayi hai.,,,Location not verifiable,13
+SP0108,Facebook,2025-08-03T20:57,en,"Deep pothole on Sion Cross Lane 19 filled with water, very dangerous at night.",RD0080,BMC25-003789,Post quotes complaint number,17
+SP0109,Instagram,2025-08-11T22:37,mr,"Marol Maroshi Road वर मोठा खड्डा आहे, दुचाकी घसरत आहेत.",RD0152,BMC25-003956,Post quotes complaint number,33
+SP0110,X,2025-05-14T19:05,en,"Deep pothole on Dadar Market Road 27 filled with water, very dangerous at night.",,,Location not verifiable,19
+SP0111,Instagram,2025-07-10T14:38,en,"Deep pothole on Kanjurmarg Link Road 7 filled with water, very dangerous at night.",RD0308,BMC25-002950,Post quotes complaint number,29
+SP0112,X,2025-02-26T19:42,hi,Chembur Camp Cross Lane 8 पर नाले का ढक्कन गायब है।,RD0249,BMC25-000364,Post quotes complaint number,21
+SP0113,Instagram,2025-07-21T08:55,en,"Big pothole on Chembur Station Road 12, two-wheelers are skidding.",,,Location not verifiable,27
+SP0114,X,2025-01-05T10:43,mr,Santacruz West Road No. 20 वर गटाराचे झाकण नाही.,RD0141,BMC25-000024,Post quotes complaint number,23
+SP0115,X,2025-04-24T17:46,en,"Big pothole on Powai Station Road 14, two-wheelers are skidding.",RD0315,BMC25-000978,Post quotes complaint number,20
+SP0116,X,2025-05-19T08:53,mr,"Dadar Station Road 15 वरील बस थांब्याजवळ खड्डा आहे, कृपया दुरुस्त करा.",,,Location not verifiable,21
+SP0117,X,2025-05-20T08:01,en,"Deep pothole on Dadar Market Road 27 filled with water, very dangerous at night.",RD0118,BMC25-001382,Post quotes complaint number,30
+SP0118,Instagram,2025-06-30T14:54,hinglish,"Vidyavihar Cross Lane 13 pe bahut bada pothole hai, bikes slip ho rahi hain.",RD0284,BMC25-002618,Post quotes complaint number,19
+SP0119,Facebook,2025-05-11T15:44,hinglish,"Santacruz West Market Road 26 bus stop ke paas khadda hai, jaldi theek karo.",,,Location not verifiable,18
+SP0120,X,2025-09-26T08:40,mr,"Matunga Cross Lane 15 वर मोठा खड्डा आहे, दुचाकी घसरत आहेत.",,,Location not verifiable,29
+SP0121,X,2025-09-22T16:25,hinglish,Kurla Road No. 21 pe gutter ka dhakkan missing hai.,RD0202,BMC25-004754,Post quotes complaint number,27
+SP0122,Facebook,2025-07-09T21:59,hinglish,Khudai ke baad Dharavi Market Road 23 ki road kharab ho gayi hai.,,,Location not verifiable,16
+SP0123,X,2025-06-24T17:04,en,"Big pothole on Powai Market Road 11, two-wheelers are skidding.",RD0312,BMC25-002408,Post quotes complaint number,21
+SP0124,X,2025-01-23T11:23,mr,"Tilak Nagar Link Road 19 वरील बस थांब्याजवळ खड्डा आहे, कृपया दुरुस्त करा.",,,Location not verifiable,27
+SP0125,X,2025-03-02T20:17,en,"Pothole near the bus stop on Kanjurmarg Link Road 10, please fix.",,,Location not verifiable,24
+SP0126,X,2025-04-01T08:39,mr,खोदकामानंतर Trombay Road No. 10 चा रस्ता उखडला आहे.,,,Location not verifiable,28
+SP0127,Instagram,2025-06-23T15:16,hinglish,Khudai ke baad Fort Market Road 22 ki road kharab ho gayi hai.,,,Location not verifiable,24
+SP0128,X,2025-04-28T10:39,en,"Big pothole on Sant Savta Marg, two-wheelers are skidding.",RD0032,BMC25-001043,Post quotes complaint number,19
+SP0129,X,2025-04-26T06:12,mr,"Malvani Market Road 7 वर मोठा खड्डा आहे, दुचाकी घसरत आहेत.",RD0338,BMC25-000999,Post quotes complaint number,21
+SP0130,Instagram,2025-08-05T13:08,hinglish,"Jogeshwari East Road No. 23 bus stop ke paas khadda hai, jaldi theek karo.",RD0174,BMC25-003843,Post quotes complaint number,32
+SP0131,Facebook,2025-05-21T21:14,hi,Khar West Cross Lane 19 पर नाले का ढक्कन गायब है।,RD0140,BMC25-001409,Post quotes complaint number,24
+SP0132,Instagram,2025-06-19T13:41,hinglish,"Malvani Station Road 13 bus stop ke paas khadda hai, jaldi theek karo.",,,Location not verifiable,25
+SP0133,X,2025-10-11T15:38,en,"Big pothole on Chembur Camp Road No. 20, two-wheelers are skidding.",,,Location not verifiable,16
+SP0134,Instagram,2025-05-14T21:59,mr,खोदकामानंतर Andheri East Link Road 9 चा रस्ता उखडला आहे.,,,Location not verifiable,24
+SP0135,X,2025-04-25T06:49,mr,"R.C. Marg वर मोठा खड्डा आहे, दुचाकी घसरत आहेत.",RD0242,BMC25-000984,Post quotes complaint number,22
+SP0136,X,2025-06-22T14:31,en,"Water logging on Trombay Cross Lane 6 after rain, road surface breaking.",,,Location not verifiable,25
+SP0137,X,2025-06-13T13:09,hi,"Mazgaon Link Road 22 पर बस स्टॉप के पास गड्ढा है, कृपया ठीक करें।",,,Location not verifiable,20
+SP0138,X,2025-07-22T18:12,hinglish,"Bandra West Station Road 3 bus stop ke paas khadda hai, jaldi theek karo.",,,Location not verifiable,20
+SP0139,X,2025-06-26T15:23,mr,"Marol Link Road 19 वरील बस थांब्याजवळ खड्डा आहे, कृपया दुरुस्त करा.",,,Location not verifiable,21
+SP0140,X,2025-09-21T17:31,en,"Pothole near the bus stop on Bhandup Road No. 27, please fix.",RD0328,BMC25-004736,Post quotes complaint number,29
+SP0141,X,2025-08-24T08:15,en,Sion Trombay Road near Mandala signal — pothole is back within two weeks of 'repair'. Ref complaint after BMC25-003870.,RD0235,BMC25-003870,Post quotes complaint number,212

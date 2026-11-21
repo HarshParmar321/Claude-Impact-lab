@@ -1,0 +1,526 @@
+accident_id,date,road_id,ward_code,severity,vehicle_type,road_condition_related,reported_cause
+ACC25-0001,2025-04-01,RD0031,E,minor,two-wheeler,Y,pothole/uneven surface
+ACC25-0002,2025-04-01,RD0059,E,minor,auto-rickshaw,N,poor visibility
+ACC25-0003,2025-04-01,RD0060,E,minor,two-wheeler,N,poor visibility
+ACC25-0004,2025-04-01,RD0254,M/W,serious,two-wheeler,Y,pothole/uneven surface
+ACC25-0005,2025-04-02,RD0235,M/E,serious,auto-rickshaw,N,speeding
+ACC25-0006,2025-04-02,RD0260,M/W,minor,auto-rickshaw,N,poor visibility
+ACC25-0007,2025-04-03,RD0128,H/W,minor,two-wheeler,Y,pothole/uneven surface
+ACC25-0008,2025-04-04,RD0217,M/E,serious,BEST bus,N,other
+ACC25-0009,2025-04-05,RD0302,S,serious,auto-rickshaw,N,poor visibility
+ACC25-0010,2025-04-06,RD0120,G/N,minor,two-wheeler,N,other
+ACC25-0011,2025-04-08,RD0302,S,minor,two-wheeler,N,other
+ACC25-0012,2025-04-08,RD0340,P/N,serious,auto-rickshaw,Y,pothole/uneven surface
+ACC25-0013,2025-04-09,RD0071,F/N,minor,two-wheeler,Y,pothole/uneven surface
+ACC25-0014,2025-04-11,RD0174,K/E,minor,car,N,lane cutting
+ACC25-0015,2025-04-12,RD0106,G/N,minor,car,N,other
+ACC25-0016,2025-04-12,RD0271,N,minor,two-wheeler,Y,loose gravel
+ACC25-0017,2025-04-12,RD0301,S,serious,two-wheeler,Y,pothole/uneven surface
+ACC25-0018,2025-04-14,RD0123,H/W,minor,two-wheeler,N,other
+ACC25-0019,2025-04-16,RD0003,A,serious,two-wheeler,Y,pothole/uneven surface
+ACC25-0020,2025-04-16,RD0129,H/W,serious,two-wheeler,N,poor visibility
+ACC25-0021,2025-04-16,RD0186,L,fatal,auto-rickshaw,N,lane cutting
+ACC25-0022,2025-04-16,RD0333,P/N,minor,two-wheeler,N,lane cutting
+ACC25-0023,2025-04-17,RD0025,A,minor,car,Y,loose gravel
+ACC25-0024,2025-04-17,RD0067,F/N,minor,car,N,poor visibility
+ACC25-0025,2025-04-22,RD0271,N,serious,two-wheeler,Y,pothole/uneven surface
+ACC25-0026,2025-04-23,RD0131,H/W,serious,two-wheeler,N,speeding
+ACC25-0027,2025-04-23,RD0303,S,serious,two-wheeler,N,lane cutting
+ACC25-0028,2025-04-24,RD0298,N,minor,BEST bus,N,other
+ACC25-0029,2025-04-24,RD0309,S,serious,car,Y,pothole/uneven surface
+ACC25-0030,2025-04-25,RD0176,K/E,serious,two-wheeler,N,lane cutting
+ACC25-0031,2025-04-25,RD0219,M/E,minor,auto-rickshaw,N,other
+ACC25-0032,2025-04-25,RD0304,S,minor,car,N,speeding
+ACC25-0033,2025-04-25,RD0346,P/N,minor,two-wheeler,Y,loose gravel
+ACC25-0034,2025-04-26,RD0033,E,minor,two-wheeler,Y,pothole/uneven surface
+ACC25-0035,2025-04-27,RD0042,E,minor,car,Y,pothole/uneven surface
+ACC25-0036,2025-04-27,RD0261,M/W,minor,two-wheeler,N,poor visibility
+ACC25-0037,2025-04-28,RD0317,S,minor,two-wheeler,N,speeding
+ACC25-0038,2025-04-29,RD0090,F/N,minor,car,Y,pothole/uneven surface
+ACC25-0039,2025-04-29,RD0176,K/E,minor,two-wheeler,N,poor visibility
+ACC25-0040,2025-04-29,RD0227,M/E,minor,two-wheeler,Y,pothole/uneven surface
+ACC25-0041,2025-04-29,RD0235,M/E,minor,two-wheeler,N,other
+ACC25-0042,2025-04-29,RD0271,N,minor,two-wheeler,N,poor visibility
+ACC25-0043,2025-04-30,RD0153,K/E,serious,two-wheeler,N,lane cutting
+ACC25-0044,2025-04-30,RD0225,M/E,serious,car,N,other
+ACC25-0045,2025-04-30,RD0228,M/E,minor,auto-rickshaw,N,poor visibility
+ACC25-0046,2025-04-30,RD0235,M/E,serious,two-wheeler,Y,pothole/uneven surface
+ACC25-0047,2025-05-02,RD0240,M/E,serious,auto-rickshaw,N,poor visibility
+ACC25-0048,2025-05-03,RD0297,N,minor,two-wheeler,Y,pothole/uneven surface
+ACC25-0049,2025-05-04,RD0332,P/N,minor,two-wheeler,N,other
+ACC25-0050,2025-05-05,RD0338,P/N,minor,two-wheeler,Y,pothole/uneven surface
+ACC25-0051,2025-05-05,RD0340,P/N,minor,auto-rickshaw,N,poor visibility
+ACC25-0052,2025-05-06,RD0262,M/W,minor,two-wheeler,Y,loose gravel
+ACC25-0053,2025-05-06,RD0271,N,minor,car,Y,pothole/uneven surface
+ACC25-0054,2025-05-09,RD0054,E,minor,two-wheeler,Y,pothole/uneven surface
+ACC25-0055,2025-05-09,RD0229,M/E,minor,car,N,speeding
+ACC25-0056,2025-05-09,RD0302,S,minor,two-wheeler,N,speeding
+ACC25-0057,2025-05-10,RD0138,H/W,minor,auto-rickshaw,Y,pothole/uneven surface
+ACC25-0058,2025-05-13,RD0151,K/E,minor,two-wheeler,N,poor visibility
+ACC25-0059,2025-05-13,RD0248,M/W,serious,car,Y,loose gravel
+ACC25-0060,2025-05-14,RD0153,K/E,minor,car,N,poor visibility
+ACC25-0061,2025-05-14,RD0241,M/W,minor,two-wheeler,N,other
+ACC25-0062,2025-05-16,RD0176,K/E,minor,two-wheeler,Y,pothole/uneven surface
+ACC25-0063,2025-05-22,RD0062,F/N,minor,pedestrian,N,speeding
+ACC25-0064,2025-05-22,RD0282,N,serious,car,Y,loose gravel
+ACC25-0065,2025-05-23,RD0142,H/W,minor,two-wheeler,N,speeding
+ACC25-0066,2025-05-23,RD0301,S,serious,auto-rickshaw,Y,pothole/uneven surface
+ACC25-0067,2025-05-25,RD0333,P/N,minor,auto-rickshaw,N,poor visibility
+ACC25-0068,2025-05-26,RD0212,M/E,serious,auto-rickshaw,Y,pothole/uneven surface
+ACC25-0069,2025-05-27,RD0149,H/W,minor,two-wheeler,Y,pothole/uneven surface
+ACC25-0070,2025-05-27,RD0330,S,minor,two-wheeler,N,speeding
+ACC25-0071,2025-05-28,RD0022,A,serious,two-wheeler,N,lane cutting
+ACC25-0072,2025-05-28,RD0046,E,minor,pedestrian,Y,loose gravel
+ACC25-0073,2025-05-28,RD0232,M/E,serious,car,Y,pothole/uneven surface
+ACC25-0074,2025-05-30,RD0008,A,minor,pedestrian,N,poor visibility
+ACC25-0075,2025-06-01,RD0082,F/N,minor,pedestrian,Y,pothole/uneven surface
+ACC25-0076,2025-06-01,RD0205,L,minor,two-wheeler,N,poor visibility
+ACC25-0077,2025-06-02,RD0012,A,minor,two-wheeler,N,other
+ACC25-0078,2025-06-02,RD0069,F/N,minor,car,Y,pothole/uneven surface
+ACC25-0079,2025-06-02,RD0326,S,minor,two-wheeler,Y,pothole/uneven surface
+ACC25-0080,2025-06-02,RD0344,P/N,serious,two-wheeler,Y,pothole/uneven surface
+ACC25-0081,2025-06-03,RD0062,F/N,minor,two-wheeler,N,poor visibility
+ACC25-0082,2025-06-03,RD0151,K/E,minor,car,N,speeding
+ACC25-0083,2025-06-03,RD0175,K/E,minor,car,N,lane cutting
+ACC25-0084,2025-06-03,RD0228,M/E,minor,auto-rickshaw,N,lane cutting
+ACC25-0085,2025-06-04,RD0004,A,serious,auto-rickshaw,Y,pothole/uneven surface
+ACC25-0086,2025-06-04,RD0030,A,serious,two-wheeler,N,speeding
+ACC25-0087,2025-06-04,RD0042,E,minor,two-wheeler,N,speeding
+ACC25-0088,2025-06-04,RD0176,K/E,serious,BEST bus,Y,pothole/uneven surface
+ACC25-0089,2025-06-04,RD0181,L,minor,car,Y,pothole/uneven surface
+ACC25-0090,2025-06-04,RD0201,L,minor,two-wheeler,N,lane cutting
+ACC25-0091,2025-06-05,RD0091,G/N,minor,two-wheeler,N,other
+ACC25-0092,2025-06-05,RD0259,M/W,minor,car,Y,pothole/uneven surface
+ACC25-0093,2025-06-05,RD0357,P/N,minor,auto-rickshaw,N,speeding
+ACC25-0094,2025-06-06,RD0196,L,serious,auto-rickshaw,N,other
+ACC25-0095,2025-06-06,RD0304,S,serious,two-wheeler,Y,pothole/uneven surface
+ACC25-0096,2025-06-06,RD0330,S,minor,auto-rickshaw,Y,pothole/uneven surface
+ACC25-0097,2025-06-07,RD0054,E,serious,two-wheeler,N,speeding
+ACC25-0098,2025-06-07,RD0273,N,fatal,two-wheeler,Y,pothole/uneven surface
+ACC25-0099,2025-06-07,RD0281,N,minor,two-wheeler,N,speeding
+ACC25-0100,2025-06-08,RD0001,A,minor,two-wheeler,Y,pothole/uneven surface
+ACC25-0101,2025-06-08,RD0001,A,minor,two-wheeler,N,poor visibility
+ACC25-0102,2025-06-08,RD0092,G/N,minor,auto-rickshaw,N,poor visibility
+ACC25-0103,2025-06-08,RD0122,H/W,minor,pedestrian,Y,pothole/uneven surface
+ACC25-0104,2025-06-08,RD0224,M/E,minor,two-wheeler,N,speeding
+ACC25-0105,2025-06-08,RD0332,P/N,serious,auto-rickshaw,Y,pothole/uneven surface
+ACC25-0106,2025-06-09,RD0192,L,minor,two-wheeler,N,lane cutting
+ACC25-0107,2025-06-09,RD0218,M/E,minor,two-wheeler,Y,pothole/uneven surface
+ACC25-0108,2025-06-09,RD0261,M/W,minor,auto-rickshaw,N,lane cutting
+ACC25-0109,2025-06-09,RD0302,S,minor,car,N,other
+ACC25-0110,2025-06-09,RD0332,P/N,minor,two-wheeler,Y,loose gravel
+ACC25-0111,2025-06-10,RD0014,A,minor,two-wheeler,N,other
+ACC25-0112,2025-06-10,RD0122,H/W,fatal,two-wheeler,N,lane cutting
+ACC25-0113,2025-06-10,RD0203,L,fatal,BEST bus,N,lane cutting
+ACC25-0114,2025-06-11,RD0011,A,serious,two-wheeler,N,lane cutting
+ACC25-0115,2025-06-12,RD0002,A,serious,auto-rickshaw,N,lane cutting
+ACC25-0116,2025-06-12,RD0046,E,serious,two-wheeler,N,other
+ACC25-0117,2025-06-12,RD0061,F/N,minor,auto-rickshaw,Y,pothole/uneven surface
+ACC25-0118,2025-06-12,RD0118,G/N,minor,auto-rickshaw,N,other
+ACC25-0119,2025-06-12,RD0188,L,minor,auto-rickshaw,Y,open drain/cover
+ACC25-0120,2025-06-13,RD0040,E,minor,two-wheeler,Y,pothole/uneven surface
+ACC25-0121,2025-06-13,RD0263,M/W,minor,two-wheeler,Y,pothole/uneven surface
+ACC25-0122,2025-06-14,RD0011,A,minor,pedestrian,Y,open drain/cover
+ACC25-0123,2025-06-14,RD0171,K/E,minor,auto-rickshaw,N,other
+ACC25-0124,2025-06-15,RD0003,A,minor,car,Y,pothole/uneven surface
+ACC25-0125,2025-06-15,RD0022,A,minor,auto-rickshaw,Y,pothole/uneven surface
+ACC25-0126,2025-06-15,RD0031,E,minor,BEST bus,Y,pothole/uneven surface
+ACC25-0127,2025-06-15,RD0235,M/E,minor,two-wheeler,Y,pothole/uneven surface
+ACC25-0128,2025-06-16,RD0001,A,minor,auto-rickshaw,Y,pothole/uneven surface
+ACC25-0129,2025-06-16,RD0171,K/E,minor,two-wheeler,N,other
+ACC25-0130,2025-06-16,RD0332,P/N,serious,two-wheeler,N,speeding
+ACC25-0131,2025-06-17,RD0153,K/E,minor,two-wheeler,N,lane cutting
+ACC25-0132,2025-06-17,RD0153,K/E,minor,car,N,poor visibility
+ACC25-0133,2025-06-17,RD0271,N,minor,two-wheeler,Y,pothole/uneven surface
+ACC25-0134,2025-06-17,RD0295,N,fatal,auto-rickshaw,N,speeding
+ACC25-0135,2025-06-17,RD0301,S,minor,auto-rickshaw,Y,pothole/uneven surface
+ACC25-0136,2025-06-17,RD0356,P/N,minor,auto-rickshaw,N,speeding
+ACC25-0137,2025-06-18,RD0032,E,minor,two-wheeler,Y,pothole/uneven surface
+ACC25-0138,2025-06-18,RD0288,N,minor,two-wheeler,Y,pothole/uneven surface
+ACC25-0139,2025-06-18,RD0317,S,minor,two-wheeler,Y,open drain/cover
+ACC25-0140,2025-06-19,RD0054,E,minor,two-wheeler,Y,open drain/cover
+ACC25-0141,2025-06-19,RD0281,N,minor,pedestrian,Y,pothole/uneven surface
+ACC25-0142,2025-06-20,RD0003,A,minor,two-wheeler,N,speeding
+ACC25-0143,2025-06-20,RD0065,F/N,minor,BEST bus,N,poor visibility
+ACC25-0144,2025-06-20,RD0164,K/E,serious,car,N,poor visibility
+ACC25-0145,2025-06-20,RD0209,L,minor,two-wheeler,N,poor visibility
+ACC25-0146,2025-06-21,RD0092,G/N,minor,two-wheeler,Y,pothole/uneven surface
+ACC25-0147,2025-06-21,RD0170,K/E,minor,two-wheeler,Y,pothole/uneven surface
+ACC25-0148,2025-06-22,RD0046,E,minor,two-wheeler,N,other
+ACC25-0149,2025-06-22,RD0073,F/N,serious,auto-rickshaw,Y,pothole/uneven surface
+ACC25-0150,2025-06-23,RD0002,A,minor,car,N,lane cutting
+ACC25-0151,2025-06-23,RD0016,A,minor,auto-rickshaw,N,poor visibility
+ACC25-0152,2025-06-23,RD0075,F/N,minor,two-wheeler,N,other
+ACC25-0153,2025-06-23,RD0188,L,minor,two-wheeler,N,speeding
+ACC25-0154,2025-06-23,RD0242,M/W,minor,two-wheeler,Y,pothole/uneven surface
+ACC25-0155,2025-06-24,RD0068,F/N,minor,two-wheeler,N,speeding
+ACC25-0156,2025-06-24,RD0245,M/W,minor,two-wheeler,Y,open drain/cover
+ACC25-0157,2025-06-24,RD0330,S,minor,auto-rickshaw,N,lane cutting
+ACC25-0158,2025-06-24,RD0340,P/N,minor,car,Y,pothole/uneven surface
+ACC25-0159,2025-06-25,RD0183,L,minor,two-wheeler,Y,loose gravel
+ACC25-0160,2025-06-25,RD0218,M/E,serious,two-wheeler,N,poor visibility
+ACC25-0161,2025-06-25,RD0243,M/W,minor,two-wheeler,Y,pothole/uneven surface
+ACC25-0162,2025-06-26,RD0067,F/N,serious,two-wheeler,Y,pothole/uneven surface
+ACC25-0163,2025-06-26,RD0082,F/N,minor,car,N,lane cutting
+ACC25-0164,2025-06-26,RD0166,K/E,minor,two-wheeler,Y,pothole/uneven surface
+ACC25-0165,2025-06-26,RD0191,L,serious,two-wheeler,N,speeding
+ACC25-0166,2025-06-26,RD0260,M/W,serious,pedestrian,N,other
+ACC25-0167,2025-06-27,RD0121,H/W,minor,pedestrian,N,poor visibility
+ACC25-0168,2025-06-27,RD0177,K/E,minor,two-wheeler,Y,pothole/uneven surface
+ACC25-0169,2025-06-27,RD0188,L,minor,two-wheeler,Y,pothole/uneven surface
+ACC25-0170,2025-06-27,RD0238,M/E,minor,pedestrian,Y,pothole/uneven surface
+ACC25-0171,2025-06-28,RD0170,K/E,minor,two-wheeler,N,speeding
+ACC25-0172,2025-06-28,RD0186,L,minor,two-wheeler,N,lane cutting
+ACC25-0173,2025-06-29,RD0054,E,minor,car,Y,open drain/cover
+ACC25-0174,2025-06-29,RD0154,K/E,minor,BEST bus,N,other
+ACC25-0175,2025-06-29,RD0211,M/E,minor,auto-rickshaw,N,other
+ACC25-0176,2025-06-29,RD0261,M/W,minor,car,N,poor visibility
+ACC25-0177,2025-06-29,RD0312,S,minor,two-wheeler,N,speeding
+ACC25-0178,2025-06-30,RD0218,M/E,minor,two-wheeler,Y,pothole/uneven surface
+ACC25-0179,2025-07-01,RD0002,A,minor,pedestrian,Y,loose gravel
+ACC25-0180,2025-07-01,RD0002,A,minor,auto-rickshaw,N,other
+ACC25-0181,2025-07-01,RD0056,E,serious,auto-rickshaw,N,poor visibility
+ACC25-0182,2025-07-01,RD0121,H/W,minor,BEST bus,Y,open drain/cover
+ACC25-0183,2025-07-01,RD0176,K/E,minor,pedestrian,Y,pothole/uneven surface
+ACC25-0184,2025-07-01,RD0333,P/N,serious,car,N,lane cutting
+ACC25-0185,2025-07-02,RD0061,F/N,minor,auto-rickshaw,N,poor visibility
+ACC25-0186,2025-07-02,RD0302,S,minor,two-wheeler,N,lane cutting
+ACC25-0187,2025-07-03,RD0109,G/N,serious,two-wheeler,N,speeding
+ACC25-0188,2025-07-03,RD0118,G/N,minor,two-wheeler,N,lane cutting
+ACC25-0189,2025-07-03,RD0192,L,minor,auto-rickshaw,Y,pothole/uneven surface
+ACC25-0190,2025-07-03,RD0224,M/E,serious,two-wheeler,N,speeding
+ACC25-0191,2025-07-03,RD0232,M/E,minor,two-wheeler,N,lane cutting
+ACC25-0192,2025-07-03,RD0250,M/W,minor,two-wheeler,N,lane cutting
+ACC25-0193,2025-07-03,RD0277,N,minor,pedestrian,N,speeding
+ACC25-0194,2025-07-03,RD0301,S,minor,auto-rickshaw,N,speeding
+ACC25-0195,2025-07-03,RD0322,S,minor,two-wheeler,N,speeding
+ACC25-0196,2025-07-04,RD0166,K/E,serious,car,N,speeding
+ACC25-0197,2025-07-04,RD0201,L,minor,car,Y,pothole/uneven surface
+ACC25-0198,2025-07-04,RD0339,P/N,serious,pedestrian,Y,pothole/uneven surface
+ACC25-0199,2025-07-05,RD0022,A,minor,two-wheeler,Y,pothole/uneven surface
+ACC25-0200,2025-07-05,RD0303,S,minor,two-wheeler,N,speeding
+ACC25-0201,2025-07-06,RD0008,A,minor,auto-rickshaw,N,lane cutting
+ACC25-0202,2025-07-06,RD0224,M/E,fatal,auto-rickshaw,N,poor visibility
+ACC25-0203,2025-07-06,RD0281,N,minor,two-wheeler,Y,open drain/cover
+ACC25-0204,2025-07-06,RD0337,P/N,minor,car,N,poor visibility
+ACC25-0205,2025-07-07,RD0312,S,serious,two-wheeler,Y,pothole/uneven surface
+ACC25-0206,2025-07-08,RD0218,M/E,serious,two-wheeler,N,lane cutting
+ACC25-0207,2025-07-08,RD0320,S,minor,two-wheeler,N,lane cutting
+ACC25-0208,2025-07-08,RD0333,P/N,serious,auto-rickshaw,Y,pothole/uneven surface
+ACC25-0209,2025-07-09,RD0107,G/N,serious,two-wheeler,Y,pothole/uneven surface
+ACC25-0210,2025-07-09,RD0122,H/W,minor,two-wheeler,N,poor visibility
+ACC25-0211,2025-07-10,RD0037,E,minor,two-wheeler,N,speeding
+ACC25-0212,2025-07-10,RD0198,L,minor,pedestrian,N,lane cutting
+ACC25-0213,2025-07-10,RD0205,L,minor,two-wheeler,N,lane cutting
+ACC25-0214,2025-07-10,RD0318,S,minor,two-wheeler,N,poor visibility
+ACC25-0215,2025-07-11,RD0318,S,minor,two-wheeler,Y,pothole/uneven surface
+ACC25-0216,2025-07-12,RD0213,M/E,minor,two-wheeler,N,other
+ACC25-0217,2025-07-13,RD0069,F/N,serious,auto-rickshaw,N,other
+ACC25-0218,2025-07-13,RD0245,M/W,minor,two-wheeler,N,lane cutting
+ACC25-0219,2025-07-14,RD0151,K/E,minor,two-wheeler,Y,pothole/uneven surface
+ACC25-0220,2025-07-14,RD0261,M/W,minor,pedestrian,N,other
+ACC25-0221,2025-07-15,RD0003,A,minor,two-wheeler,N,speeding
+ACC25-0222,2025-07-15,RD0144,H/W,minor,two-wheeler,N,speeding
+ACC25-0223,2025-07-16,RD0013,A,minor,car,N,other
+ACC25-0224,2025-07-16,RD0033,E,minor,two-wheeler,N,speeding
+ACC25-0225,2025-07-16,RD0322,S,serious,auto-rickshaw,Y,open drain/cover
+ACC25-0226,2025-07-16,RD0353,P/N,minor,two-wheeler,N,other
+ACC25-0227,2025-07-17,RD0056,E,minor,two-wheeler,N,speeding
+ACC25-0228,2025-07-17,RD0163,K/E,minor,two-wheeler,N,lane cutting
+ACC25-0229,2025-07-17,RD0323,S,serious,two-wheeler,N,lane cutting
+ACC25-0230,2025-07-18,RD0075,F/N,minor,two-wheeler,N,poor visibility
+ACC25-0231,2025-07-18,RD0204,L,minor,two-wheeler,Y,open drain/cover
+ACC25-0232,2025-07-19,RD0008,A,minor,pedestrian,N,poor visibility
+ACC25-0233,2025-07-19,RD0010,A,minor,two-wheeler,Y,loose gravel
+ACC25-0234,2025-07-19,RD0042,E,minor,two-wheeler,N,poor visibility
+ACC25-0235,2025-07-19,RD0048,E,minor,auto-rickshaw,Y,pothole/uneven surface
+ACC25-0236,2025-07-19,RD0075,F/N,minor,two-wheeler,Y,loose gravel
+ACC25-0237,2025-07-19,RD0242,M/W,minor,auto-rickshaw,N,other
+ACC25-0238,2025-07-19,RD0298,N,minor,car,N,other
+ACC25-0239,2025-07-19,RD0303,S,serious,two-wheeler,Y,loose gravel
+ACC25-0240,2025-07-20,RD0129,H/W,minor,auto-rickshaw,Y,pothole/uneven surface
+ACC25-0241,2025-07-20,RD0149,H/W,minor,auto-rickshaw,N,lane cutting
+ACC25-0242,2025-07-20,RD0302,S,serious,BEST bus,N,other
+ACC25-0243,2025-07-21,RD0148,H/W,serious,car,Y,pothole/uneven surface
+ACC25-0244,2025-07-22,RD0001,A,minor,two-wheeler,Y,loose gravel
+ACC25-0245,2025-07-22,RD0081,F/N,minor,two-wheeler,N,poor visibility
+ACC25-0246,2025-07-22,RD0262,M/W,minor,auto-rickshaw,Y,pothole/uneven surface
+ACC25-0247,2025-07-22,RD0299,N,minor,pedestrian,Y,pothole/uneven surface
+ACC25-0248,2025-07-22,RD0319,S,serious,auto-rickshaw,N,lane cutting
+ACC25-0249,2025-07-23,RD0153,K/E,serious,two-wheeler,Y,pothole/uneven surface
+ACC25-0250,2025-07-23,RD0225,M/E,minor,two-wheeler,N,speeding
+ACC25-0251,2025-07-23,RD0301,S,minor,two-wheeler,N,other
+ACC25-0252,2025-07-24,RD0054,E,minor,auto-rickshaw,Y,loose gravel
+ACC25-0253,2025-07-24,RD0138,H/W,minor,two-wheeler,N,speeding
+ACC25-0254,2025-07-24,RD0205,L,serious,two-wheeler,Y,pothole/uneven surface
+ACC25-0255,2025-07-24,RD0246,M/W,minor,car,N,lane cutting
+ACC25-0256,2025-07-24,RD0262,M/W,minor,auto-rickshaw,N,other
+ACC25-0257,2025-07-24,RD0322,S,minor,car,N,speeding
+ACC25-0258,2025-07-25,RD0010,A,minor,two-wheeler,N,poor visibility
+ACC25-0259,2025-07-25,RD0204,L,serious,auto-rickshaw,Y,pothole/uneven surface
+ACC25-0260,2025-07-26,RD0005,A,serious,BEST bus,Y,pothole/uneven surface
+ACC25-0261,2025-07-26,RD0212,M/E,minor,auto-rickshaw,N,poor visibility
+ACC25-0262,2025-07-26,RD0260,M/W,fatal,car,N,speeding
+ACC25-0263,2025-07-27,RD0208,L,serious,two-wheeler,N,poor visibility
+ACC25-0264,2025-07-28,RD0068,F/N,serious,two-wheeler,Y,pothole/uneven surface
+ACC25-0265,2025-07-28,RD0235,M/E,serious,two-wheeler,Y,pothole/uneven surface
+ACC25-0266,2025-07-28,RD0301,S,serious,two-wheeler,Y,pothole/uneven surface
+ACC25-0267,2025-07-29,RD0081,F/N,serious,two-wheeler,Y,loose gravel
+ACC25-0268,2025-07-30,RD0002,A,minor,two-wheeler,N,lane cutting
+ACC25-0269,2025-07-30,RD0061,F/N,minor,two-wheeler,N,lane cutting
+ACC25-0270,2025-07-30,RD0181,L,minor,car,N,speeding
+ACC25-0271,2025-07-31,RD0118,G/N,minor,two-wheeler,Y,pothole/uneven surface
+ACC25-0272,2025-07-31,RD0209,L,minor,two-wheeler,N,poor visibility
+ACC25-0273,2025-07-31,RD0289,N,serious,auto-rickshaw,Y,pothole/uneven surface
+ACC25-0274,2025-07-31,RD0306,S,minor,two-wheeler,N,lane cutting
+ACC25-0275,2025-08-01,RD0151,K/E,minor,two-wheeler,N,lane cutting
+ACC25-0276,2025-08-02,RD0039,E,minor,car,N,other
+ACC25-0277,2025-08-03,RD0108,G/N,minor,two-wheeler,Y,pothole/uneven surface
+ACC25-0278,2025-08-03,RD0242,M/W,minor,two-wheeler,Y,pothole/uneven surface
+ACC25-0279,2025-08-03,RD0321,S,minor,two-wheeler,Y,pothole/uneven surface
+ACC25-0280,2025-08-04,RD0042,E,serious,auto-rickshaw,N,speeding
+ACC25-0281,2025-08-04,RD0044,E,fatal,two-wheeler,N,poor visibility
+ACC25-0282,2025-08-04,RD0119,G/N,serious,two-wheeler,Y,pothole/uneven surface
+ACC25-0283,2025-08-04,RD0178,K/E,minor,two-wheeler,N,poor visibility
+ACC25-0284,2025-08-04,RD0197,L,minor,two-wheeler,N,poor visibility
+ACC25-0285,2025-08-04,RD0211,M/E,minor,car,N,poor visibility
+ACC25-0286,2025-08-04,RD0303,S,minor,auto-rickshaw,N,lane cutting
+ACC25-0287,2025-08-05,RD0194,L,minor,two-wheeler,Y,loose gravel
+ACC25-0288,2025-08-05,RD0235,M/E,minor,two-wheeler,Y,pothole/uneven surface
+ACC25-0289,2025-08-05,RD0292,N,minor,two-wheeler,N,lane cutting
+ACC25-0290,2025-08-06,RD0149,H/W,minor,two-wheeler,N,speeding
+ACC25-0291,2025-08-06,RD0241,M/W,minor,two-wheeler,Y,pothole/uneven surface
+ACC25-0292,2025-08-08,RD0017,A,serious,car,N,other
+ACC25-0293,2025-08-08,RD0111,G/N,minor,two-wheeler,N,speeding
+ACC25-0294,2025-08-08,RD0305,S,minor,pedestrian,N,other
+ACC25-0295,2025-08-09,RD0147,H/W,serious,two-wheeler,N,lane cutting
+ACC25-0296,2025-08-09,RD0302,S,serious,BEST bus,Y,pothole/uneven surface
+ACC25-0297,2025-08-10,RD0085,F/N,minor,pedestrian,Y,pothole/uneven surface
+ACC25-0298,2025-08-10,RD0225,M/E,minor,two-wheeler,N,lane cutting
+ACC25-0299,2025-08-10,RD0330,S,fatal,car,N,lane cutting
+ACC25-0300,2025-08-11,RD0017,A,minor,car,Y,pothole/uneven surface
+ACC25-0301,2025-08-11,RD0020,A,minor,two-wheeler,N,speeding
+ACC25-0302,2025-08-11,RD0056,E,minor,car,Y,loose gravel
+ACC25-0303,2025-08-11,RD0060,E,minor,two-wheeler,Y,loose gravel
+ACC25-0304,2025-08-11,RD0260,M/W,serious,two-wheeler,N,speeding
+ACC25-0305,2025-08-11,RD0273,N,serious,two-wheeler,Y,pothole/uneven surface
+ACC25-0306,2025-08-11,RD0334,P/N,serious,auto-rickshaw,Y,pothole/uneven surface
+ACC25-0307,2025-08-12,RD0037,E,minor,auto-rickshaw,N,lane cutting
+ACC25-0308,2025-08-12,RD0092,G/N,serious,two-wheeler,N,speeding
+ACC25-0309,2025-08-12,RD0118,G/N,minor,two-wheeler,N,poor visibility
+ACC25-0310,2025-08-12,RD0260,M/W,minor,two-wheeler,N,lane cutting
+ACC25-0311,2025-08-12,RD0327,S,minor,auto-rickshaw,Y,open drain/cover
+ACC25-0312,2025-08-13,RD0213,M/E,minor,BEST bus,N,other
+ACC25-0313,2025-08-13,RD0295,N,fatal,BEST bus,N,poor visibility
+ACC25-0314,2025-08-13,RD0333,P/N,serious,pedestrian,N,lane cutting
+ACC25-0315,2025-08-13,RD0350,P/N,minor,two-wheeler,N,other
+ACC25-0316,2025-08-14,RD0042,E,minor,two-wheeler,Y,loose gravel
+ACC25-0317,2025-08-14,RD0118,G/N,minor,two-wheeler,N,speeding
+ACC25-0318,2025-08-14,RD0273,N,minor,auto-rickshaw,Y,pothole/uneven surface
+ACC25-0319,2025-08-14,RD0310,S,minor,auto-rickshaw,Y,open drain/cover
+ACC25-0320,2025-08-14,RD0357,P/N,minor,two-wheeler,Y,pothole/uneven surface
+ACC25-0321,2025-08-15,RD0303,S,minor,two-wheeler,Y,pothole/uneven surface
+ACC25-0322,2025-08-16,RD0122,H/W,minor,car,N,poor visibility
+ACC25-0323,2025-08-16,RD0278,N,minor,car,Y,loose gravel
+ACC25-0324,2025-08-16,RD0294,N,minor,two-wheeler,N,other
+ACC25-0325,2025-08-17,RD0010,A,minor,pedestrian,Y,pothole/uneven surface
+ACC25-0326,2025-08-17,RD0120,G/N,serious,auto-rickshaw,Y,pothole/uneven surface
+ACC25-0327,2025-08-17,RD0148,H/W,minor,two-wheeler,N,poor visibility
+ACC25-0328,2025-08-17,RD0198,L,minor,two-wheeler,N,speeding
+ACC25-0329,2025-08-18,RD0014,A,minor,car,N,other
+ACC25-0330,2025-08-18,RD0033,E,minor,pedestrian,N,lane cutting
+ACC25-0331,2025-08-18,RD0048,E,minor,two-wheeler,Y,pothole/uneven surface
+ACC25-0332,2025-08-18,RD0181,L,minor,auto-rickshaw,Y,pothole/uneven surface
+ACC25-0333,2025-08-18,RD0333,P/N,minor,two-wheeler,N,lane cutting
+ACC25-0334,2025-08-19,RD0093,G/N,minor,auto-rickshaw,Y,pothole/uneven surface
+ACC25-0335,2025-08-19,RD0151,K/E,serious,auto-rickshaw,N,speeding
+ACC25-0336,2025-08-19,RD0326,S,serious,two-wheeler,N,poor visibility
+ACC25-0337,2025-08-20,RD0284,N,serious,car,Y,pothole/uneven surface
+ACC25-0338,2025-08-21,RD0001,A,minor,two-wheeler,N,other
+ACC25-0339,2025-08-21,RD0016,A,serious,car,Y,pothole/uneven surface
+ACC25-0340,2025-08-21,RD0061,F/N,minor,two-wheeler,N,poor visibility
+ACC25-0341,2025-08-21,RD0235,M/E,minor,two-wheeler,Y,pothole/uneven surface
+ACC25-0342,2025-08-21,RD0332,P/N,minor,two-wheeler,N,speeding
+ACC25-0343,2025-08-22,RD0014,A,minor,car,N,lane cutting
+ACC25-0344,2025-08-22,RD0176,K/E,serious,auto-rickshaw,Y,pothole/uneven surface
+ACC25-0345,2025-08-23,RD0033,E,minor,car,Y,open drain/cover
+ACC25-0346,2025-08-23,RD0169,K/E,minor,pedestrian,N,speeding
+ACC25-0347,2025-08-23,RD0238,M/E,minor,two-wheeler,Y,pothole/uneven surface
+ACC25-0348,2025-08-23,RD0273,N,minor,car,Y,pothole/uneven surface
+ACC25-0349,2025-08-24,RD0075,F/N,minor,two-wheeler,N,speeding
+ACC25-0350,2025-08-24,RD0138,H/W,serious,two-wheeler,Y,pothole/uneven surface
+ACC25-0351,2025-08-24,RD0331,P/N,minor,two-wheeler,N,speeding
+ACC25-0352,2025-08-24,RD0332,P/N,minor,two-wheeler,N,other
+ACC25-0353,2025-08-25,RD0002,A,minor,two-wheeler,Y,pothole/uneven surface
+ACC25-0354,2025-08-25,RD0034,E,minor,two-wheeler,N,lane cutting
+ACC25-0355,2025-08-25,RD0062,F/N,serious,two-wheeler,Y,loose gravel
+ACC25-0356,2025-08-25,RD0148,H/W,minor,auto-rickshaw,N,speeding
+ACC25-0357,2025-08-25,RD0271,N,minor,pedestrian,N,other
+ACC25-0358,2025-08-25,RD0328,S,minor,auto-rickshaw,N,poor visibility
+ACC25-0359,2025-08-26,RD0176,K/E,minor,two-wheeler,N,poor visibility
+ACC25-0360,2025-08-26,RD0303,S,minor,pedestrian,Y,pothole/uneven surface
+ACC25-0361,2025-08-26,RD0356,P/N,serious,BEST bus,N,other
+ACC25-0362,2025-08-27,RD0093,G/N,serious,auto-rickshaw,Y,pothole/uneven surface
+ACC25-0363,2025-08-27,RD0096,G/N,serious,two-wheeler,Y,pothole/uneven surface
+ACC25-0364,2025-08-27,RD0281,N,minor,car,N,poor visibility
+ACC25-0365,2025-08-27,RD0332,P/N,minor,two-wheeler,N,other
+ACC25-0366,2025-08-28,RD0056,E,minor,two-wheeler,Y,pothole/uneven surface
+ACC25-0367,2025-08-28,RD0061,F/N,minor,two-wheeler,Y,pothole/uneven surface
+ACC25-0368,2025-08-28,RD0237,M/E,minor,BEST bus,N,other
+ACC25-0369,2025-08-28,RD0241,M/W,minor,two-wheeler,Y,open drain/cover
+ACC25-0370,2025-08-28,RD0256,M/W,minor,two-wheeler,N,lane cutting
+ACC25-0371,2025-08-28,RD0301,S,minor,two-wheeler,N,lane cutting
+ACC25-0372,2025-08-29,RD0264,M/W,serious,pedestrian,N,lane cutting
+ACC25-0373,2025-08-29,RD0300,N,minor,auto-rickshaw,Y,pothole/uneven surface
+ACC25-0374,2025-08-29,RD0320,S,serious,two-wheeler,N,other
+ACC25-0375,2025-08-30,RD0153,K/E,minor,auto-rickshaw,N,lane cutting
+ACC25-0376,2025-08-31,RD0091,G/N,minor,two-wheeler,N,speeding
+ACC25-0377,2025-08-31,RD0177,K/E,minor,auto-rickshaw,N,lane cutting
+ACC25-0378,2025-08-31,RD0182,L,serious,auto-rickshaw,N,lane cutting
+ACC25-0379,2025-08-31,RD0331,P/N,fatal,two-wheeler,N,poor visibility
+ACC25-0380,2025-09-01,RD0059,E,minor,two-wheeler,N,poor visibility
+ACC25-0381,2025-09-01,RD0063,F/N,minor,car,Y,pothole/uneven surface
+ACC25-0382,2025-09-01,RD0186,L,minor,two-wheeler,N,poor visibility
+ACC25-0383,2025-09-01,RD0222,M/E,serious,two-wheeler,Y,pothole/uneven surface
+ACC25-0384,2025-09-01,RD0237,M/E,serious,auto-rickshaw,Y,pothole/uneven surface
+ACC25-0385,2025-09-01,RD0313,S,minor,car,Y,pothole/uneven surface
+ACC25-0386,2025-09-02,RD0014,A,minor,auto-rickshaw,N,other
+ACC25-0387,2025-09-02,RD0016,A,minor,two-wheeler,Y,open drain/cover
+ACC25-0388,2025-09-02,RD0033,E,serious,auto-rickshaw,N,speeding
+ACC25-0389,2025-09-02,RD0118,G/N,serious,two-wheeler,N,speeding
+ACC25-0390,2025-09-02,RD0217,M/E,serious,two-wheeler,Y,pothole/uneven surface
+ACC25-0391,2025-09-02,RD0249,M/W,minor,pedestrian,N,lane cutting
+ACC25-0392,2025-09-02,RD0299,N,minor,two-wheeler,Y,pothole/uneven surface
+ACC25-0393,2025-09-03,RD0127,H/W,minor,car,N,lane cutting
+ACC25-0394,2025-09-03,RD0205,L,serious,two-wheeler,N,speeding
+ACC25-0395,2025-09-03,RD0220,M/E,minor,two-wheeler,Y,pothole/uneven surface
+ACC25-0396,2025-09-03,RD0230,M/E,minor,car,Y,loose gravel
+ACC25-0397,2025-09-03,RD0235,M/E,serious,auto-rickshaw,Y,pothole/uneven surface
+ACC25-0398,2025-09-04,RD0002,A,minor,two-wheeler,Y,pothole/uneven surface
+ACC25-0399,2025-09-05,RD0149,H/W,serious,two-wheeler,N,other
+ACC25-0400,2025-09-05,RD0152,K/E,minor,car,Y,pothole/uneven surface
+ACC25-0401,2025-09-05,RD0217,M/E,minor,auto-rickshaw,Y,pothole/uneven surface
+ACC25-0402,2025-09-06,RD0091,G/N,fatal,two-wheeler,Y,pothole/uneven surface
+ACC25-0403,2025-09-06,RD0094,G/N,minor,car,Y,loose gravel
+ACC25-0404,2025-09-06,RD0274,N,serious,car,Y,pothole/uneven surface
+ACC25-0405,2025-09-07,RD0328,S,minor,auto-rickshaw,N,speeding
+ACC25-0406,2025-09-08,RD0151,K/E,serious,car,N,speeding
+ACC25-0407,2025-09-08,RD0183,L,minor,two-wheeler,N,other
+ACC25-0408,2025-09-08,RD0231,M/E,minor,two-wheeler,N,speeding
+ACC25-0409,2025-09-09,RD0092,G/N,minor,car,N,lane cutting
+ACC25-0410,2025-09-09,RD0145,H/W,serious,pedestrian,Y,pothole/uneven surface
+ACC25-0411,2025-09-09,RD0153,K/E,minor,auto-rickshaw,N,lane cutting
+ACC25-0412,2025-09-09,RD0271,N,minor,car,N,poor visibility
+ACC25-0413,2025-09-10,RD0002,A,minor,auto-rickshaw,Y,pothole/uneven surface
+ACC25-0414,2025-09-10,RD0027,A,minor,auto-rickshaw,N,lane cutting
+ACC25-0415,2025-09-10,RD0188,L,minor,car,N,lane cutting
+ACC25-0416,2025-09-10,RD0291,N,serious,two-wheeler,Y,pothole/uneven surface
+ACC25-0417,2025-09-11,RD0054,E,serious,two-wheeler,N,lane cutting
+ACC25-0418,2025-09-11,RD0062,F/N,serious,two-wheeler,N,other
+ACC25-0419,2025-09-11,RD0096,G/N,minor,two-wheeler,Y,pothole/uneven surface
+ACC25-0420,2025-09-11,RD0177,K/E,minor,two-wheeler,N,speeding
+ACC25-0421,2025-09-11,RD0218,M/E,minor,BEST bus,Y,pothole/uneven surface
+ACC25-0422,2025-09-12,RD0050,E,serious,two-wheeler,Y,pothole/uneven surface
+ACC25-0423,2025-09-12,RD0164,K/E,minor,auto-rickshaw,Y,pothole/uneven surface
+ACC25-0424,2025-09-12,RD0181,L,minor,two-wheeler,N,lane cutting
+ACC25-0425,2025-09-12,RD0208,L,minor,auto-rickshaw,Y,loose gravel
+ACC25-0426,2025-09-13,RD0132,H/W,minor,car,Y,pothole/uneven surface
+ACC25-0427,2025-09-13,RD0243,M/W,minor,two-wheeler,Y,pothole/uneven surface
+ACC25-0428,2025-09-13,RD0254,M/W,serious,two-wheeler,Y,pothole/uneven surface
+ACC25-0429,2025-09-13,RD0271,N,minor,BEST bus,N,poor visibility
+ACC25-0430,2025-09-13,RD0278,N,serious,two-wheeler,Y,pothole/uneven surface
+ACC25-0431,2025-09-14,RD0102,G/N,serious,pedestrian,Y,pothole/uneven surface
+ACC25-0432,2025-09-14,RD0235,M/E,minor,car,N,speeding
+ACC25-0433,2025-09-14,RD0271,N,serious,two-wheeler,N,lane cutting
+ACC25-0434,2025-09-15,RD0068,F/N,minor,two-wheeler,Y,pothole/uneven surface
+ACC25-0435,2025-09-15,RD0256,M/W,minor,two-wheeler,N,poor visibility
+ACC25-0436,2025-09-15,RD0342,P/N,minor,two-wheeler,N,poor visibility
+ACC25-0437,2025-09-16,RD0156,K/E,serious,two-wheeler,N,other
+ACC25-0438,2025-09-16,RD0190,L,fatal,two-wheeler,N,speeding
+ACC25-0439,2025-09-16,RD0242,M/W,serious,car,Y,pothole/uneven surface
+ACC25-0440,2025-09-16,RD0287,N,serious,pedestrian,N,speeding
+ACC25-0441,2025-09-17,RD0063,F/N,minor,two-wheeler,Y,pothole/uneven surface
+ACC25-0442,2025-09-17,RD0326,S,serious,two-wheeler,N,lane cutting
+ACC25-0443,2025-09-18,RD0049,E,minor,car,Y,pothole/uneven surface
+ACC25-0444,2025-09-18,RD0062,F/N,serious,auto-rickshaw,Y,pothole/uneven surface
+ACC25-0445,2025-09-18,RD0106,G/N,minor,two-wheeler,Y,pothole/uneven surface
+ACC25-0446,2025-09-18,RD0151,K/E,minor,two-wheeler,N,speeding
+ACC25-0447,2025-09-19,RD0283,N,minor,car,N,other
+ACC25-0448,2025-09-19,RD0303,S,minor,two-wheeler,Y,loose gravel
+ACC25-0449,2025-09-20,RD0007,A,fatal,two-wheeler,N,poor visibility
+ACC25-0450,2025-09-20,RD0030,A,minor,two-wheeler,N,poor visibility
+ACC25-0451,2025-09-20,RD0061,F/N,minor,pedestrian,N,lane cutting
+ACC25-0452,2025-09-20,RD0121,H/W,serious,two-wheeler,N,poor visibility
+ACC25-0453,2025-09-21,RD0339,P/N,minor,car,Y,loose gravel
+ACC25-0454,2025-09-22,RD0041,E,minor,car,N,other
+ACC25-0455,2025-09-22,RD0063,F/N,serious,two-wheeler,N,other
+ACC25-0456,2025-09-22,RD0197,L,minor,two-wheeler,N,speeding
+ACC25-0457,2025-09-23,RD0029,A,serious,two-wheeler,N,lane cutting
+ACC25-0458,2025-09-23,RD0118,G/N,minor,two-wheeler,Y,pothole/uneven surface
+ACC25-0459,2025-09-23,RD0298,N,minor,two-wheeler,Y,pothole/uneven surface
+ACC25-0460,2025-09-23,RD0308,S,minor,BEST bus,N,other
+ACC25-0461,2025-09-24,RD0214,M/E,minor,auto-rickshaw,Y,pothole/uneven surface
+ACC25-0462,2025-09-24,RD0299,N,minor,pedestrian,N,other
+ACC25-0463,2025-09-25,RD0042,E,minor,auto-rickshaw,N,other
+ACC25-0464,2025-09-25,RD0262,M/W,serious,car,N,lane cutting
+ACC25-0465,2025-09-25,RD0279,N,minor,two-wheeler,N,poor visibility
+ACC25-0466,2025-09-26,RD0151,K/E,serious,two-wheeler,Y,pothole/uneven surface
+ACC25-0467,2025-09-26,RD0213,M/E,minor,two-wheeler,Y,pothole/uneven surface
+ACC25-0468,2025-09-26,RD0297,N,minor,car,Y,loose gravel
+ACC25-0469,2025-09-27,RD0159,K/E,fatal,two-wheeler,N,speeding
+ACC25-0470,2025-09-27,RD0328,S,serious,two-wheeler,Y,pothole/uneven surface
+ACC25-0471,2025-09-27,RD0330,S,minor,pedestrian,Y,pothole/uneven surface
+ACC25-0472,2025-09-28,RD0116,G/N,serious,auto-rickshaw,Y,pothole/uneven surface
+ACC25-0473,2025-09-28,RD0271,N,minor,auto-rickshaw,Y,open drain/cover
+ACC25-0474,2025-09-29,RD0272,N,serious,auto-rickshaw,N,poor visibility
+ACC25-0475,2025-09-30,RD0002,A,minor,car,Y,pothole/uneven surface
+ACC25-0476,2025-09-30,RD0186,L,minor,auto-rickshaw,Y,pothole/uneven surface
+ACC25-0477,2025-09-30,RD0213,M/E,serious,car,N,poor visibility
+ACC25-0478,2025-09-30,RD0250,M/W,serious,two-wheeler,Y,pothole/uneven surface
+ACC25-0479,2025-10-01,RD0045,E,minor,two-wheeler,N,other
+ACC25-0480,2025-10-01,RD0186,L,minor,two-wheeler,N,speeding
+ACC25-0481,2025-10-02,RD0295,N,minor,pedestrian,N,poor visibility
+ACC25-0482,2025-10-03,RD0063,F/N,minor,car,N,lane cutting
+ACC25-0483,2025-10-03,RD0138,H/W,minor,two-wheeler,Y,pothole/uneven surface
+ACC25-0484,2025-10-03,RD0151,K/E,minor,car,N,speeding
+ACC25-0485,2025-10-03,RD0284,N,minor,auto-rickshaw,N,lane cutting
+ACC25-0486,2025-10-06,RD0123,H/W,fatal,two-wheeler,N,other
+ACC25-0487,2025-10-06,RD0337,P/N,minor,two-wheeler,N,other
+ACC25-0488,2025-10-07,RD0157,K/E,minor,two-wheeler,N,poor visibility
+ACC25-0489,2025-10-07,RD0211,M/E,minor,two-wheeler,Y,pothole/uneven surface
+ACC25-0490,2025-10-07,RD0235,M/E,minor,two-wheeler,N,speeding
+ACC25-0491,2025-10-08,RD0228,M/E,minor,two-wheeler,Y,pothole/uneven surface
+ACC25-0492,2025-10-09,RD0065,F/N,minor,car,N,poor visibility
+ACC25-0493,2025-10-09,RD0192,L,minor,pedestrian,Y,open drain/cover
+ACC25-0494,2025-10-10,RD0188,L,minor,two-wheeler,N,speeding
+ACC25-0495,2025-10-11,RD0048,E,minor,two-wheeler,Y,pothole/uneven surface
+ACC25-0496,2025-10-11,RD0065,F/N,fatal,pedestrian,N,poor visibility
+ACC25-0497,2025-10-12,RD0302,S,serious,two-wheeler,N,lane cutting
+ACC25-0498,2025-10-12,RD0356,P/N,minor,car,N,speeding
+ACC25-0499,2025-10-13,RD0007,A,minor,pedestrian,Y,loose gravel
+ACC25-0500,2025-10-14,RD0137,H/W,minor,two-wheeler,Y,loose gravel
+ACC25-0501,2025-10-15,RD0082,F/N,minor,two-wheeler,Y,pothole/uneven surface
+ACC25-0502,2025-10-16,RD0211,M/E,minor,two-wheeler,Y,pothole/uneven surface
+ACC25-0503,2025-10-17,RD0272,N,serious,auto-rickshaw,Y,pothole/uneven surface
+ACC25-0504,2025-10-18,RD0160,K/E,minor,car,N,other
+ACC25-0505,2025-10-19,RD0078,F/N,minor,BEST bus,N,other
+ACC25-0506,2025-10-19,RD0127,H/W,minor,two-wheeler,N,lane cutting
+ACC25-0507,2025-10-19,RD0349,P/N,fatal,two-wheeler,N,speeding
+ACC25-0508,2025-10-20,RD0056,E,minor,two-wheeler,Y,pothole/uneven surface
+ACC25-0509,2025-10-20,RD0153,K/E,serious,two-wheeler,N,other
+ACC25-0510,2025-10-21,RD0337,P/N,minor,two-wheeler,N,other
+ACC25-0511,2025-10-22,RD0328,S,minor,two-wheeler,N,poor visibility
+ACC25-0512,2025-10-23,RD0003,A,serious,car,N,speeding
+ACC25-0513,2025-10-23,RD0051,E,minor,BEST bus,N,speeding
+ACC25-0514,2025-10-23,RD0105,G/N,minor,pedestrian,N,speeding
+ACC25-0515,2025-10-24,RD0328,S,minor,BEST bus,Y,loose gravel
+ACC25-0516,2025-10-25,RD0021,A,minor,auto-rickshaw,N,other
+ACC25-0517,2025-10-25,RD0062,F/N,serious,two-wheeler,N,poor visibility
+ACC25-0518,2025-10-25,RD0281,N,minor,two-wheeler,N,poor visibility
+ACC25-0519,2025-10-25,RD0339,P/N,serious,auto-rickshaw,N,speeding
+ACC25-0520,2025-10-26,RD0023,A,minor,two-wheeler,Y,pothole/uneven surface
+ACC25-0521,2025-10-27,RD0063,F/N,minor,car,N,lane cutting
+ACC25-0522,2025-10-27,RD0151,K/E,minor,auto-rickshaw,N,poor visibility
+ACC25-0523,2025-10-27,RD0347,P/N,minor,auto-rickshaw,N,speeding
+ACC25-0524,2025-10-30,RD0042,E,serious,auto-rickshaw,N,speeding
+ACC25-0525,2025-10-31,RD0235,M/E,serious,two-wheeler,N,other
